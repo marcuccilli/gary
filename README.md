@@ -13,7 +13,7 @@ https://github.com/marcuccilli/gary/raw/refs/heads/main/iptv_ipcidr.mrs
 
 https://raw.githubusercontent.com/marcuccilli/gary/refs/heads/main/iptv_mihomo.yaml
 
-#Passwall   txt格式须手动在分流规则分别填写域名和cidr
+#Passwall   txt格式，须手动在分流规则分别填写域名和cidr
 
 https://raw.githubusercontent.com/marcuccilli/gary/refs/heads/main/iptv_passwall.txt
 
