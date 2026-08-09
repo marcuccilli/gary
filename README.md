@@ -4,10 +4,14 @@ Gary源白名单,
 
 源文件地址
 
-Mihomo/Clash
+#Mihomo/Clash mi   MRS格式，需区分域名/cidr
+https://github.com/marcuccilli/gary/raw/refs/heads/main/iptv_domain.mrs
+https://github.com/marcuccilli/gary/raw/refs/heads/main/iptv_ipcidr.mrs
+
+Clash  Yaml格式
 https://raw.githubusercontent.com/marcuccilli/gary/refs/heads/main/iptv_mihomo.yaml
 
-Passwall
+Passwall   txt格式须手动在分流规则分别填写域名和cidr
 https://raw.githubusercontent.com/marcuccilli/gary/refs/heads/main/iptv_passwall.txt
 
 Sing-box
