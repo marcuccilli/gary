@@ -6,8 +6,8 @@ Gary源白名单,
 
 #Mihomo/Clash mi   MRS格式，需区分域名/cidr
 
-https://github.com/marcuccilli/gary/raw/refs/heads/main/iptv_domain.mrs
-https://github.com/marcuccilli/gary/raw/refs/heads/main/iptv_ipcidr.mrs
+https://raw.githubusercontent.com/marcuccilli/gary/refs/heads/main/iptv_domain.mrs
+https://raw.githubusercontent.com/marcuccilli/gary/refs/heads/main/iptv_ipcidr.mrs
 
 #Clash  Yaml格式
 
