@@ -9,14 +9,18 @@ Gary源白名单,
 https://github.com/marcuccilli/gary/raw/refs/heads/main/iptv_domain.mrs
 https://github.com/marcuccilli/gary/raw/refs/heads/main/iptv_ipcidr.mrs
 
-Clash  Yaml格式
+#Clash  Yaml格式
+
 https://raw.githubusercontent.com/marcuccilli/gary/refs/heads/main/iptv_mihomo.yaml
 
-Passwall   txt格式须手动在分流规则分别填写域名和cidr
+#Passwall   txt格式须手动在分流规则分别填写域名和cidr
+
 https://raw.githubusercontent.com/marcuccilli/gary/refs/heads/main/iptv_passwall.txt
 
-Sing-box
+#Sing-box
+
 https://raw.githubusercontent.com/marcuccilli/gary/refs/heads/main/iptv_whitelist.srs
 
-Xray
+#Xray
+
 https://raw.githubusercontent.com/marcuccilli/gary/refs/heads/main/iptv_xray.json
