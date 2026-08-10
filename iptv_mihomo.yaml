@@ -96,6 +96,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.qd.je
   - DOMAIN-SUFFIX,cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
   - DOMAIN-SUFFIX,citynewsregional.akamaized.net
+  - DOMAIN-SUFFIX,content-api.cf.sky.com
   - DOMAIN-SUFFIX,creativecommons.org
   - DOMAIN-SUFFIX,d11r33s5i066xh.cloudfront.net
   - DOMAIN-SUFFIX,d171yrj5ba7twq.cloudfront.net
@@ -198,6 +199,7 @@ payload:
   - DOMAIN-SUFFIX,epg.ovh
   - DOMAIN-SUFFIX,epg.provider.plex.tv
   - DOMAIN-SUFFIX,epgshare01.online
+  - DOMAIN-SUFFIX,faro-collector-prod-eu-west-0.grafana.net
   - DOMAIN-SUFFIX,fast-channels.sinclairstoryline.com
   - DOMAIN-SUFFIX,ffef67628f584802af88ab884a963471.mediatailor.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,freqsyndlin.redbull.com
@@ -212,6 +214,7 @@ payload:
   - DOMAIN-SUFFIX,i.ibb.co
   - DOMAIN-SUFFIX,i.imgur.com
   - DOMAIN-SUFFIX,i.mjh.nz
+  - DOMAIN-SUFFIX,id.sky.com
   - DOMAIN-SUFFIX,image-resizer-cloud-cdn.api.cms.amdvids.com
   - DOMAIN-SUFFIX,images.contentstack.io
   - DOMAIN-SUFFIX,images.pluto.tv
@@ -231,6 +234,7 @@ payload:
   - DOMAIN-SUFFIX,kd277n.proxy-cdn.ag
   - DOMAIN-SUFFIX,kd387n.proxy-cdn.ag
   - DOMAIN-SUFFIX,keyserver.cloudport.amagi.tv
+  - DOMAIN-SUFFIX,kosmo.at.sky
   - DOMAIN-SUFFIX,latency-test.skk.moe
   - DOMAIN-SUFFIX,lgcp-xumoent-nbcnn-2b7eb.fast.nbcuni.com
   - DOMAIN-SUFFIX,lge-static.ottera.tv
@@ -255,6 +259,7 @@ payload:
   - DOMAIN-SUFFIX,nmx1ota.akamaized.net
   - DOMAIN-SUFFIX,notifications-api.cf.sky.com
   - DOMAIN-SUFFIX,ns.adobe.com
+  - DOMAIN-SUFFIX,ns.tripletriangle.com
   - DOMAIN-SUFFIX,outtvglobal.com
   - DOMAIN-SUFFIX,pb-0ix3l1oxmg1fj.akamaized.net
   - DOMAIN-SUFFIX,pb-0n3n2ej0w8pl9.akamaized.net
@@ -303,6 +308,7 @@ payload:
   - DOMAIN-SUFFIX,s9.gifyu.com
   - DOMAIN-SUFFIX,samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv
   - DOMAIN-SUFFIX,schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,secure.sky.com
   - DOMAIN-SUFFIX,sk.delivery.roku.com
   - DOMAIN-SUFFIX,skyaccessibility.sky
   - DOMAIN-SUFFIX,skyport.sky.com

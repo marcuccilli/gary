@@ -95,6 +95,7 @@ domain:cdn.privacy-mgmt.com
 domain:cdn.qd.je
 domain:cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
 domain:citynewsregional.akamaized.net
+domain:content-api.cf.sky.com
 domain:creativecommons.org
 domain:d11r33s5i066xh.cloudfront.net
 domain:d171yrj5ba7twq.cloudfront.net
@@ -197,6 +198,7 @@ domain:epg-ipv4.provider.plex.tv
 domain:epg.ovh
 domain:epg.provider.plex.tv
 domain:epgshare01.online
+domain:faro-collector-prod-eu-west-0.grafana.net
 domain:fast-channels.sinclairstoryline.com
 domain:ffef67628f584802af88ab884a963471.mediatailor.us-west-2.amazonaws.com
 domain:freqsyndlin.redbull.com
@@ -211,6 +213,7 @@ domain:hls.livecdn.io
 domain:i.ibb.co
 domain:i.imgur.com
 domain:i.mjh.nz
+domain:id.sky.com
 domain:image-resizer-cloud-cdn.api.cms.amdvids.com
 domain:images.contentstack.io
 domain:images.pluto.tv
@@ -230,6 +233,7 @@ domain:kd233n.proxy-cdn.ag
 domain:kd277n.proxy-cdn.ag
 domain:kd387n.proxy-cdn.ag
 domain:keyserver.cloudport.amagi.tv
+domain:kosmo.at.sky
 domain:latency-test.skk.moe
 domain:lgcp-xumoent-nbcnn-2b7eb.fast.nbcuni.com
 domain:lge-static.ottera.tv
@@ -254,6 +258,7 @@ domain:nl1.rocketdns.info
 domain:nmx1ota.akamaized.net
 domain:notifications-api.cf.sky.com
 domain:ns.adobe.com
+domain:ns.tripletriangle.com
 domain:outtvglobal.com
 domain:pb-0ix3l1oxmg1fj.akamaized.net
 domain:pb-0n3n2ej0w8pl9.akamaized.net
@@ -302,6 +307,7 @@ domain:s8host3.localnow.api.cms.amdvids.com
 domain:s9.gifyu.com
 domain:samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv
 domain:schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com
+domain:secure.sky.com
 domain:sk.delivery.roku.com
 domain:skyaccessibility.sky
 domain:skyport.sky.com
