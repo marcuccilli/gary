@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com
+  - DOMAIN-SUFFIX,168.sryze.cc
   - DOMAIN-SUFFIX,18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,1d7f286dfb844497ac68dd9d6eeb6ea6.mediatailor.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,3003219.arclivon.cc
@@ -10,6 +11,8 @@ payload:
   - DOMAIN-SUFFIX,3003219.xenovrix.cc
   - DOMAIN-SUFFIX,3fbf38fe.wurl.com
   - DOMAIN-SUFFIX,52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com
+  - DOMAIN-SUFFIX,5393127.norvixal.cc
+  - DOMAIN-SUFFIX,7447975b.wurl.com
   - DOMAIN-SUFFIX,75943f25.wurl.com
   - DOMAIN-SUFFIX,89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com
@@ -90,6 +93,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.mos.cms.futurecdn.net
   - DOMAIN-SUFFIX,cdn.optimizely.com
   - DOMAIN-SUFFIX,cdn.privacy-mgmt.com
+  - DOMAIN-SUFFIX,cdn.qd.je
   - DOMAIN-SUFFIX,cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
   - DOMAIN-SUFFIX,citynewsregional.akamaized.net
   - DOMAIN-SUFFIX,creativecommons.org
@@ -150,6 +154,7 @@ payload:
   - DOMAIN-SUFFIX,d3ca4qxsdzlrju.cloudfront.net
   - DOMAIN-SUFFIX,d3dem8ae9kaqav.cloudfront.net
   - DOMAIN-SUFFIX,d3ejxpiq19cu3i.cloudfront.net
+  - DOMAIN-SUFFIX,d3f4oii5n0oeqi.cloudfront.net
   - DOMAIN-SUFFIX,d3hqevbyoxtkoi.cloudfront.net
   - DOMAIN-SUFFIX,d3j50s1rkjmwi9.cloudfront.net
   - DOMAIN-SUFFIX,d3o593mz1glx8d.cloudfront.net
@@ -277,6 +282,7 @@ payload:
   - DOMAIN-SUFFIX,pb-wgi5ljoabjgdm.akamaized.net
   - DOMAIN-SUFFIX,pb-wmei1j77c66s0.akamaized.net
   - DOMAIN-SUFFIX,pb-xp0ozx9lyqeiv.akamaized.net
+  - DOMAIN-SUFFIX,php.jdshipin.com
   - DOMAIN-SUFFIX,poolc6cg1ead.airspace-cdn.cbsivideo.com
   - DOMAIN-SUFFIX,prod-s.cdn-cf.philo.com
   - DOMAIN-SUFFIX,provider-static.plex.tv
