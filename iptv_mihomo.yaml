@@ -1,8 +1,51 @@
 payload:
+  - DOMAIN-SUFFIX,0.hrs
+  - DOMAIN-SUFFIX,0.idcwk
+  - DOMAIN-SUFFIX,0.iud
+  - DOMAIN-SUFFIX,0.yqffr
+  - DOMAIN-SUFFIX,02u.ox
+  - DOMAIN-SUFFIX,05-uz2.ye
+  - DOMAIN-SUFFIX,07.qa
   - DOMAIN-SUFFIX,0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com
+  - DOMAIN-SUFFIX,0h5.tx
+  - DOMAIN-SUFFIX,0hsee.ab
+  - DOMAIN-SUFFIX,0u.fm
+  - DOMAIN-SUFFIX,0v.pq
+  - DOMAIN-SUFFIX,1.eb
+  - DOMAIN-SUFFIX,1.hc
+  - DOMAIN-SUFFIX,1.pf
+  - DOMAIN-SUFFIX,1.pn
   - DOMAIN-SUFFIX,168.sryze.cc
   - DOMAIN-SUFFIX,18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,1d7f286dfb844497ac68dd9d6eeb6ea6.mediatailor.us-west-2.amazonaws.com
+  - DOMAIN-SUFFIX,1k.kh
+  - DOMAIN-SUFFIX,1l.ak
+  - DOMAIN-SUFFIX,1p.ih
+  - DOMAIN-SUFFIX,1qc.mky
+  - DOMAIN-SUFFIX,2.dc
+  - DOMAIN-SUFFIX,2.kwo
+  - DOMAIN-SUFFIX,2.mg
+  - DOMAIN-SUFFIX,2.omaag
+  - DOMAIN-SUFFIX,2.tij
+  - DOMAIN-SUFFIX,2.tn
+  - DOMAIN-SUFFIX,2.xgq
+  - DOMAIN-SUFFIX,2017.svg
+  - DOMAIN-SUFFIX,2019.svg
+  - DOMAIN-SUFFIX,252flocalnow.com
+  - DOMAIN-SUFFIX,29.aaagx
+  - DOMAIN-SUFFIX,2d9.xkj
+  - DOMAIN-SUFFIX,2e.deb
+  - DOMAIN-SUFFIX,2f3fbf38fe.wurl.com
+  - DOMAIN-SUFFIX,2f75943f25.wurl.com
+  - DOMAIN-SUFFIX,2f967d9da6.wurl.com
+  - DOMAIN-SUFFIX,2f9d3b46a9.wurl.com
+  - DOMAIN-SUFFIX,2r.au
+  - DOMAIN-SUFFIX,3.aw
+  - DOMAIN-SUFFIX,3.foko
+  - DOMAIN-SUFFIX,3.lq
+  - DOMAIN-SUFFIX,3.pk
+  - DOMAIN-SUFFIX,3.qkqzi
+  - DOMAIN-SUFFIX,3.tq
   - DOMAIN-SUFFIX,3003219.arclivon.cc
   - DOMAIN-SUFFIX,3003219.calovrix.cc
   - DOMAIN-SUFFIX,3003219.linovrex.cc
@@ -10,21 +53,110 @@ payload:
   - DOMAIN-SUFFIX,3003219.seravixx.cc
   - DOMAIN-SUFFIX,3003219.xenovrix.cc
   - DOMAIN-SUFFIX,3fbf38fe.wurl.com
+  - DOMAIN-SUFFIX,3r.jft
+  - DOMAIN-SUFFIX,3t.py
+  - DOMAIN-SUFFIX,3y.dnpju
+  - DOMAIN-SUFFIX,4.cp
+  - DOMAIN-SUFFIX,4.psfov
+  - DOMAIN-SUFFIX,4.racez
+  - DOMAIN-SUFFIX,4.xb
+  - DOMAIN-SUFFIX,44.svg
+  - DOMAIN-SUFFIX,46.me
+  - DOMAIN-SUFFIX,4c.pvj
+  - DOMAIN-SUFFIX,4k.gmr
+  - DOMAIN-SUFFIX,4rw.hg
+  - DOMAIN-SUFFIX,4s.yb
+  - DOMAIN-SUFFIX,4t.qx
+  - DOMAIN-SUFFIX,4u.jdpjup
+  - DOMAIN-SUFFIX,5.ck
+  - DOMAIN-SUFFIX,5.mq
+  - DOMAIN-SUFFIX,5.mqiw
+  - DOMAIN-SUFFIX,5.pp
+  - DOMAIN-SUFFIX,5.rzyyi
+  - DOMAIN-SUFFIX,5.uo
+  - DOMAIN-SUFFIX,5.xqta
   - DOMAIN-SUFFIX,52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,5393127.norvixal.cc
+  - DOMAIN-SUFFIX,5g.te
+  - DOMAIN-SUFFIX,5o.rqv
+  - DOMAIN-SUFFIX,5u.gi
+  - DOMAIN-SUFFIX,5v.vl
+  - DOMAIN-SUFFIX,5ynem.jr
+  - DOMAIN-SUFFIX,6.jrt
+  - DOMAIN-SUFFIX,6.my
+  - DOMAIN-SUFFIX,6.olj
+  - DOMAIN-SUFFIX,6.ur
+  - DOMAIN-SUFFIX,6.wg
+  - DOMAIN-SUFFIX,60n.mt
+  - DOMAIN-SUFFIX,6d.mgv
+  - DOMAIN-SUFFIX,6o.le
+  - DOMAIN-SUFFIX,6ya.iiq
+  - DOMAIN-SUFFIX,7.gc
+  - DOMAIN-SUFFIX,7.vx
+  - DOMAIN-SUFFIX,7.xnu
+  - DOMAIN-SUFFIX,72.or
   - DOMAIN-SUFFIX,7447975b.wurl.com
   - DOMAIN-SUFFIX,75943f25.wurl.com
+  - DOMAIN-SUFFIX,77j.bhc
+  - DOMAIN-SUFFIX,7e.mk
+  - DOMAIN-SUFFIX,7jxwnjeh.vma
+  - DOMAIN-SUFFIX,7k.nc
+  - DOMAIN-SUFFIX,7minpmis.mk
+  - DOMAIN-SUFFIX,7nrznr.g4.wnj
+  - DOMAIN-SUFFIX,7puaej.pgv
+  - DOMAIN-SUFFIX,7q4.khd
+  - DOMAIN-SUFFIX,7q4.khe
+  - DOMAIN-SUFFIX,7ure.wr
+  - DOMAIN-SUFFIX,7ure.wrw
+  - DOMAIN-SUFFIX,7uyf1k.cdr
+  - DOMAIN-SUFFIX,7w.obbo
+  - DOMAIN-SUFFIX,7z.xh
+  - DOMAIN-SUFFIX,8.bwo
+  - DOMAIN-SUFFIX,8.es
+  - DOMAIN-SUFFIX,8.pn
+  - DOMAIN-SUFFIX,8.wh
+  - DOMAIN-SUFFIX,8.yi
   - DOMAIN-SUFFIX,89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com
+  - DOMAIN-SUFFIX,8fy1.gw
+  - DOMAIN-SUFFIX,9.cb
+  - DOMAIN-SUFFIX,9.lx
+  - DOMAIN-SUFFIX,9.uif
+  - DOMAIN-SUFFIX,9.yeg
   - DOMAIN-SUFFIX,926e3f43.wurl.com
   - DOMAIN-SUFFIX,967d9da6.wurl.com
   - DOMAIN-SUFFIX,99f62fea411048679ce5e233e88f2b95.mediatailor.us-west-2.amazonaws.com
+  - DOMAIN-SUFFIX,9d.zxwp
   - DOMAIN-SUFFIX,9d3b46a9.wurl.com
   - DOMAIN-SUFFIX,9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com
+  - DOMAIN-SUFFIX,9h.ig
+  - DOMAIN-SUFFIX,a.bk
+  - DOMAIN-SUFFIX,a.body
+  - DOMAIN-SUFFIX,a.body.appendchild
+  - DOMAIN-SUFFIX,a.createelement
+  - DOMAIN-SUFFIX,a.hhwb
+  - DOMAIN-SUFFIX,a.iminy
+  - DOMAIN-SUFFIX,a.iy
+  - DOMAIN-SUFFIX,a.jli
   - DOMAIN-SUFFIX,a.jsrdn.com
+  - DOMAIN-SUFFIX,a.kaq
+  - DOMAIN-SUFFIX,a.orw
+  - DOMAIN-SUFFIX,a.push
+  - DOMAIN-SUFFIX,a.ylli
+  - DOMAIN-SUFFIX,a0.ega
+  - DOMAIN-SUFFIX,a6j.ojn
+  - DOMAIN-SUFFIX,a7.cphl
   - DOMAIN-SUFFIX,abc-iview-mediapackagestreams-2.akamaized.net
+  - DOMAIN-SUFFIX,abc.svg
+  - DOMAIN-SUFFIX,ads.coppa
+  - DOMAIN-SUFFIX,ads.did
+  - DOMAIN-SUFFIX,ads.dnt
+  - DOMAIN-SUFFIX,ads.gdpr
   - DOMAIN-SUFFIX,aenetworks.global.transmit.live
+  - DOMAIN-SUFFIX,ag.ex
+  - DOMAIN-SUFFIX,ai.otd
   - DOMAIN-SUFFIX,aka-live1050.delivery.roku.com
+  - DOMAIN-SUFFIX,am.originurl
   - DOMAIN-SUFFIX,amc-amcpresents-1-us.xumo.wurl.tv
   - DOMAIN-SUFFIX,amc-rushbyamc-1-us.vizio.wurl.tv
   - DOMAIN-SUFFIX,amd-mediator-eolq3tk4la-uk.a.run.app
@@ -77,27 +209,101 @@ payload:
   - DOMAIN-SUFFIX,amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv
   - DOMAIN-SUFFIX,amg16186-amg16186c1-amgplt0055.playout.now3.amagi.tv
   - DOMAIN-SUFFIX,analytics.global.sky.com
+  - DOMAIN-SUFFIX,app.do
+  - DOMAIN-SUFFIX,apple-touch-icon.png
+  - DOMAIN-SUFFIX,arguments.length
+  - DOMAIN-SUFFIX,article-bundle-cb70a4f9.js
   - DOMAIN-SUFFIX,assets.adobedtm.com
   - DOMAIN-SUFFIX,assets.golfchannel.com
   - DOMAIN-SUFFIX,assets.sky.com
   - DOMAIN-SUFFIX,atlanticflixtv.online
+  - DOMAIN-SUFFIX,aw.pib
+  - DOMAIN-SUFFIX,ax.xg
+  - DOMAIN-SUFFIX,ay.sd
+  - DOMAIN-SUFFIX,b.ck
+  - DOMAIN-SUFFIX,b.ei
+  - DOMAIN-SUFFIX,b.glv
+  - DOMAIN-SUFFIX,b.gz
+  - DOMAIN-SUFFIX,b.k.ya
+  - DOMAIN-SUFFIX,b.kld
+  - DOMAIN-SUFFIX,b.nqw
+  - DOMAIN-SUFFIX,b.oo
+  - DOMAIN-SUFFIX,b.qc
+  - DOMAIN-SUFFIX,b.qjllyk
+  - DOMAIN-SUFFIX,b.usse
+  - DOMAIN-SUFFIX,b.uwb
+  - DOMAIN-SUFFIX,b.vqsdo
+  - DOMAIN-SUFFIX,b.vr
+  - DOMAIN-SUFFIX,b.xaz
+  - DOMAIN-SUFFIX,b.xcniqk
+  - DOMAIN-SUFFIX,b.xmy
+  - DOMAIN-SUFFIX,b.zfzgiud
   - DOMAIN-SUFFIX,b9f2b36f.wurl.com
+  - DOMAIN-SUFFIX,ba.il
+  - DOMAIN-SUFFIX,bb.aee
   - DOMAIN-SUFFIX,bbb-billi-xumo.otteravision.com
   - DOMAIN-SUFFIX,bbb-bowl-xumo.otteravision.com
+  - DOMAIN-SUFFIX,bbcdrama400x200.png
+  - DOMAIN-SUFFIX,beinsports1.svg
   - DOMAIN-SUFFIX,bgdc.live
   - DOMAIN-SUFFIX,boutique.orange.fr
+  - DOMAIN-SUFFIX,bsu.ffq
+  - DOMAIN-SUFFIX,bundle-f9874d85.css
+  - DOMAIN-SUFFIX,bundle-f9874d85.js
   - DOMAIN-SUFFIX,business.sky.com
+  - DOMAIN-SUFFIX,byag.oe
+  - DOMAIN-SUFFIX,c.dgib
+  - DOMAIN-SUFFIX,c.fejc
+  - DOMAIN-SUFFIX,c.fnobx
+  - DOMAIN-SUFFIX,c.gs
+  - DOMAIN-SUFFIX,c.jqee
+  - DOMAIN-SUFFIX,c.jr
+  - DOMAIN-SUFFIX,c.ks
   - DOMAIN-SUFFIX,c.mjh.nz
+  - DOMAIN-SUFFIX,c.vt
+  - DOMAIN-SUFFIX,c.zt
+  - DOMAIN-SUFFIX,c2.nr
+  - DOMAIN-SUFFIX,c3.qjv
+  - DOMAIN-SUFFIX,c3e2jx.ea
+  - DOMAIN-SUFFIX,c5.sw
   - DOMAIN-SUFFIX,ca1.rocketdns.info
+  - DOMAIN-SUFFIX,cc4.lft
+  - DOMAIN-SUFFIX,cctv13.svg
+  - DOMAIN-SUFFIX,cctv9.svg
   - DOMAIN-SUFFIX,cdn.freebiesupply.com
   - DOMAIN-SUFFIX,cdn.mos.cms.futurecdn.net
   - DOMAIN-SUFFIX,cdn.optimizely.com
   - DOMAIN-SUFFIX,cdn.privacy-mgmt.com
   - DOMAIN-SUFFIX,cdn.qd.je
   - DOMAIN-SUFFIX,cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
+  - DOMAIN-SUFFIX,cgq2.hz
+  - DOMAIN-SUFFIX,cinemax.svg
   - DOMAIN-SUFFIX,citynewsregional.akamaized.net
+  - DOMAIN-SUFFIX,cla1.svg
+  - DOMAIN-SUFFIX,cmozr.mzl
+  - DOMAIN-SUFFIX,config.accountid
+  - DOMAIN-SUFFIX,config.cmpauthcookie
+  - DOMAIN-SUFFIX,config.cmpbaseendpoint
+  - DOMAIN-SUFFIX,config.cmpprivacymanagerid
+  - DOMAIN-SUFFIX,config.cmpsiteid
+  - DOMAIN-SUFFIX,config.mmsdomain
+  - DOMAIN-SUFFIX,config.msglibraryrooturl
+  - DOMAIN-SUFFIX,config.tcfversion
+  - DOMAIN-SUFFIX,console.log
   - DOMAIN-SUFFIX,content-api.cf.sky.com
+  - DOMAIN-SUFFIX,cookie.trim
+  - DOMAIN-SUFFIX,cr.bd
+  - DOMAIN-SUFFIX,cr.mrj
   - DOMAIN-SUFFIX,creativecommons.org
+  - DOMAIN-SUFFIX,cruise1st.tv
+  - DOMAIN-SUFFIX,d.createelement
+  - DOMAIN-SUFFIX,d.ds
+  - DOMAIN-SUFFIX,d.getelementsbytagname
+  - DOMAIN-SUFFIX,d.kbroo
+  - DOMAIN-SUFFIX,d.re
+  - DOMAIN-SUFFIX,d.ri
+  - DOMAIN-SUFFIX,d.tm
+  - DOMAIN-SUFFIX,d.yl
   - DOMAIN-SUFFIX,d11r33s5i066xh.cloudfront.net
   - DOMAIN-SUFFIX,d171yrj5ba7twq.cloudfront.net
   - DOMAIN-SUFFIX,d198ro05q94rc4.cloudfront.net
@@ -142,6 +348,7 @@ payload:
   - DOMAIN-SUFFIX,d2v2e5kw14egus.cloudfront.net
   - DOMAIN-SUFFIX,d2w9q46ikgrcwx.cloudfront.net
   - DOMAIN-SUFFIX,d2y67h7360vjl7.cloudfront.net
+  - DOMAIN-SUFFIX,d3.nr
   - DOMAIN-SUFFIX,d37i8mvsaxucfl.cloudfront.net
   - DOMAIN-SUFFIX,d37lhv1m2qsipm.cloudfront.net
   - DOMAIN-SUFFIX,d38d8jwr5u7ckx.cloudfront.net
@@ -169,8 +376,10 @@ payload:
   - DOMAIN-SUFFIX,d53csymoczzde.cloudfront.net
   - DOMAIN-SUFFIX,d6ef3usc6d9cl.cloudfront.net
   - DOMAIN-SUFFIX,d726x48n2pd5h.cloudfront.net
+  - DOMAIN-SUFFIX,d9.osft
   - DOMAIN-SUFFIX,d9ssxzmclhfo4.cloudfront.net
   - DOMAIN-SUFFIX,daajvofu4yuzd.cloudfront.net
+  - DOMAIN-SUFFIX,dabl.svg
   - DOMAIN-SUFFIX,dai.google.com
   - DOMAIN-SUFFIX,db691j6te7mt4.cloudfront.net
   - DOMAIN-SUFFIX,db7hpmv1jrjri.cloudfront.net
@@ -180,52 +389,217 @@ payload:
   - DOMAIN-SUFFIX,dh18i7whff86v.cloudfront.net
   - DOMAIN-SUFFIX,dhjd4u7ds8bgi.cloudfront.net
   - DOMAIN-SUFFIX,did3h2ysc2rkk.cloudfront.net
+  - DOMAIN-SUFFIX,directv-via-satellite-acq-packages-channel-lineup.pdf
+  - DOMAIN-SUFFIX,dk.yz
   - DOMAIN-SUFFIX,dki01q1l7yn3y.cloudfront.net
+  - DOMAIN-SUFFIX,dn.ucn
   - DOMAIN-SUFFIX,dn7vkzd5khpp3.cloudfront.net
   - DOMAIN-SUFFIX,dnf08l6u6uxnz.cloudfront.net
+  - DOMAIN-SUFFIX,do5.db
+  - DOMAIN-SUFFIX,doae.igl
+  - DOMAIN-SUFFIX,document.cookie
+  - DOMAIN-SUFFIX,document.cookie.replace
+  - DOMAIN-SUFFIX,document.createelement
+  - DOMAIN-SUFFIX,document.queryselector
   - DOMAIN-SUFFIX,doumbtmvnsp0z.cloudfront.net
+  - DOMAIN-SUFFIX,dp.jja
   - DOMAIN-SUFFIX,ds2c506obo7m8.cloudfront.net
+  - DOMAIN-SUFFIX,dt-data-layer-10.1.1.min.js
   - DOMAIN-SUFFIX,dt1s4l2cmiyit.cloudfront.net
   - DOMAIN-SUFFIX,dtpafgv4jlncv.cloudfront.net
   - DOMAIN-SUFFIX,dtqutq7lmcchv.cloudfront.net
   - DOMAIN-SUFFIX,dvnftgdlbnemm.cloudfront.net
+  - DOMAIN-SUFFIX,dw.svg
   - DOMAIN-SUFFIX,dw2m7yrngfg8c.cloudfront.net
   - DOMAIN-SUFFIX,dwamdstream102.akamaized.net
+  - DOMAIN-SUFFIX,dz.ww
   - DOMAIN-SUFFIX,dz734cj5diabs.cloudfront.net
   - DOMAIN-SUFFIX,dzz957bqk62e8.cloudfront.net
+  - DOMAIN-SUFFIX,e.av
+  - DOMAIN-SUFFIX,e.bf
+  - DOMAIN-SUFFIX,e.bg
+  - DOMAIN-SUFFIX,e.data
+  - DOMAIN-SUFFIX,e.eii
+  - DOMAIN-SUFFIX,e.emitter
+  - DOMAIN-SUFFIX,e.gx
+  - DOMAIN-SUFFIX,e.ja
+  - DOMAIN-SUFFIX,e.ji
+  - DOMAIN-SUFFIX,e.ms
+  - DOMAIN-SUFFIX,e.queue
+  - DOMAIN-SUFFIX,e.queue.push
+  - DOMAIN-SUFFIX,e.snippetversion
+  - DOMAIN-SUFFIX,e.source.postmessage
+  - DOMAIN-SUFFIX,e.taf
+  - DOMAIN-SUFFIX,e.wr
+  - DOMAIN-SUFFIX,e.wrj
+  - DOMAIN-SUFFIX,e.xuk
+  - DOMAIN-SUFFIX,e2.kdr
   - DOMAIN-SUFFIX,ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com
+  - DOMAIN-SUFFIX,eehc3.jiktl
+  - DOMAIN-SUFFIX,eg.czq
+  - DOMAIN-SUFFIX,em.ug
   - DOMAIN-SUFFIX,english-livebkali.cgtn.com
   - DOMAIN-SUFFIX,epg-ipv4.provider.plex.tv
   - DOMAIN-SUFFIX,epg.ovh
   - DOMAIN-SUFFIX,epg.provider.plex.tv
   - DOMAIN-SUFFIX,epgshare01.online
+  - DOMAIN-SUFFIX,eydo.cn
+  - DOMAIN-SUFFIX,f.bom
+  - DOMAIN-SUFFIX,f.cf
+  - DOMAIN-SUFFIX,f.ebo
+  - DOMAIN-SUFFIX,f.ezn
+  - DOMAIN-SUFFIX,f.hf
+  - DOMAIN-SUFFIX,f.nbf
+  - DOMAIN-SUFFIX,f.ncp
+  - DOMAIN-SUFFIX,f.ovs
+  - DOMAIN-SUFFIX,f.parentnode.insertbefore
+  - DOMAIN-SUFFIX,f.rhy
+  - DOMAIN-SUFFIX,f.vi
+  - DOMAIN-SUFFIX,f52wl1.fapl
   - DOMAIN-SUFFIX,faro-collector-prod-eu-west-0.grafana.net
   - DOMAIN-SUFFIX,fast-channels.sinclairstoryline.com
+  - DOMAIN-SUFFIX,favicon.ico
+  - DOMAIN-SUFFIX,favicon.svg
   - DOMAIN-SUFFIX,ffef67628f584802af88ab884a963471.mediatailor.us-west-2.amazonaws.com
+  - DOMAIN-SUFFIX,fk9.mf
+  - DOMAIN-SUFFIX,fn.nl
+  - DOMAIN-SUFFIX,fn.omo
+  - DOMAIN-SUFFIX,fn.rxm
+  - DOMAIN-SUFFIX,fq.ena
   - DOMAIN-SUFFIX,freqsyndlin.redbull.com
+  - DOMAIN-SUFFIX,ftn.zp
   - DOMAIN-SUFFIX,ftv1.b-cdn.net
+  - DOMAIN-SUFFIX,fwg.ms
+  - DOMAIN-SUFFIX,g.aj
+  - DOMAIN-SUFFIX,g.an
+  - DOMAIN-SUFFIX,g.ar
+  - DOMAIN-SUFFIX,g.by
+  - DOMAIN-SUFFIX,g.iis
+  - DOMAIN-SUFFIX,g.km
+  - DOMAIN-SUFFIX,g.mcprs
+  - DOMAIN-SUFFIX,g.mpr
+  - DOMAIN-SUFFIX,g.rg
+  - DOMAIN-SUFFIX,g.rij
+  - DOMAIN-SUFFIX,g.sz
+  - DOMAIN-SUFFIX,g.xj
+  - DOMAIN-SUFFIX,g.xk
+  - DOMAIN-SUFFIX,g2.ah
+  - DOMAIN-SUFFIX,g3pbs.gj
+  - DOMAIN-SUFFIX,g4.puc
+  - DOMAIN-SUFFIX,g5.xv
   - DOMAIN-SUFFIX,garysclub.sharewithyou.dpdns.org
+  - DOMAIN-SUFFIX,gc-rgb-horizontal-logo-reverse-dark-bg.png
+  - DOMAIN-SUFFIX,gdoi.vl
+  - DOMAIN-SUFFIX,getconsent.then
+  - DOMAIN-SUFFIX,gfkkv.lwv
   - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,gmh.bv
   - DOMAIN-SUFFIX,go4.pw
+  - DOMAIN-SUFFIX,gtm.js
+  - DOMAIN-SUFFIX,gtm.start
+  - DOMAIN-SUFFIX,gtmtf.bo
+  - DOMAIN-SUFFIX,gv2k.ww
   - DOMAIN-SUFFIX,gvqzylrx77.execute-api.ap-southeast-2.amazonaws.com
+  - DOMAIN-SUFFIX,gy.ic
+  - DOMAIN-SUFFIX,h.bn
+  - DOMAIN-SUFFIX,h.gzun
+  - DOMAIN-SUFFIX,h.he
+  - DOMAIN-SUFFIX,h.hy
+  - DOMAIN-SUFFIX,h.ip
+  - DOMAIN-SUFFIX,h.jek
+  - DOMAIN-SUFFIX,h.jw
+  - DOMAIN-SUFFIX,h.nu
+  - DOMAIN-SUFFIX,h.rk
+  - DOMAIN-SUFFIX,h.rl
+  - DOMAIN-SUFFIX,h.vjz
+  - DOMAIN-SUFFIX,h.xng
+  - DOMAIN-SUFFIX,h.zw
+  - DOMAIN-SUFFIX,hbo.svg
+  - DOMAIN-SUFFIX,hc.yu
+  - DOMAIN-SUFFIX,he5.pr
   - DOMAIN-SUFFIX,helpforum.sky.com
+  - DOMAIN-SUFFIX,hi.xqgd
+  - DOMAIN-SUFFIX,hl.fl.flg
   - DOMAIN-SUFFIX,hls-beacons-us.xumo.com
   - DOMAIN-SUFFIX,hls.livecdn.io
+  - DOMAIN-SUFFIX,hostname.replace
+  - DOMAIN-SUFFIX,hou.yz
+  - DOMAIN-SUFFIX,hz.xw
+  - DOMAIN-SUFFIX,hza34.igno
+  - DOMAIN-SUFFIX,i.bmp
+  - DOMAIN-SUFFIX,i.ex
+  - DOMAIN-SUFFIX,i.hra
+  - DOMAIN-SUFFIX,i.ial
   - DOMAIN-SUFFIX,i.ibb.co
   - DOMAIN-SUFFIX,i.imgur.com
+  - DOMAIN-SUFFIX,i.lgz
+  - DOMAIN-SUFFIX,i.mijni
   - DOMAIN-SUFFIX,i.mjh.nz
+  - DOMAIN-SUFFIX,i.name
+  - DOMAIN-SUFFIX,i.nl
+  - DOMAIN-SUFFIX,i.style.csstext
+  - DOMAIN-SUFFIX,i.vn
+  - DOMAIN-SUFFIX,i.vnt
+  - DOMAIN-SUFFIX,i.ws
+  - DOMAIN-SUFFIX,i.zk
   - DOMAIN-SUFFIX,id.sky.com
+  - DOMAIN-SUFFIX,idot.me
+  - DOMAIN-SUFFIX,ie.sfi
+  - DOMAIN-SUFFIX,ihl8.muec
+  - DOMAIN-SUFFIX,ihy.codsyao
+  - DOMAIN-SUFFIX,ikik.fi
   - DOMAIN-SUFFIX,image-resizer-cloud-cdn.api.cms.amdvids.com
   - DOMAIN-SUFFIX,images.contentstack.io
   - DOMAIN-SUFFIX,images.pluto.tv
   - DOMAIN-SUFFIX,images.prismic.io
   - DOMAIN-SUFFIX,images.sr.roku.com
+  - DOMAIN-SUFFIX,ind1.svg
   - DOMAIN-SUFFIX,innovationtv.eu
   - DOMAIN-SUFFIX,ip.skk.moe
   - DOMAIN-SUFFIX,iptv.watchhd.to
   - DOMAIN-SUFFIX,iptvboss.xyz
   - DOMAIN-SUFFIX,ist11.proxy-cdn.ag
+  - DOMAIN-SUFFIX,iw8.eyj
+  - DOMAIN-SUFFIX,iyu.ik
+  - DOMAIN-SUFFIX,izt.ip
+  - DOMAIN-SUFFIX,j.async
+  - DOMAIN-SUFFIX,j.el
+  - DOMAIN-SUFFIX,j.fzka
+  - DOMAIN-SUFFIX,j.h.his
+  - DOMAIN-SUFFIX,j.iyz
+  - DOMAIN-SUFFIX,j.ml
+  - DOMAIN-SUFFIX,j.niy
+  - DOMAIN-SUFFIX,j.qk
+  - DOMAIN-SUFFIX,j.sb
+  - DOMAIN-SUFFIX,j.sk
+  - DOMAIN-SUFFIX,j.src
+  - DOMAIN-SUFFIX,j.xt
+  - DOMAIN-SUFFIX,jgzew.oc
+  - DOMAIN-SUFFIX,jj.wwa
+  - DOMAIN-SUFFIX,jk.ug
   - DOMAIN-SUFFIX,jmp2.uk
+  - DOMAIN-SUFFIX,jn.gs
+  - DOMAIN-SUFFIX,jo.uqv
+  - DOMAIN-SUFFIX,jsb4.jf
+  - DOMAIN-SUFFIX,json-ld-image.jpg
+  - DOMAIN-SUFFIX,json.parse
+  - DOMAIN-SUFFIX,json.stringify
+  - DOMAIN-SUFFIX,jsy.ekr
+  - DOMAIN-SUFFIX,jukwc.vzn
+  - DOMAIN-SUFFIX,jz.fx
+  - DOMAIN-SUFFIX,k.ac
+  - DOMAIN-SUFFIX,k.cu
+  - DOMAIN-SUFFIX,k.dlv
+  - DOMAIN-SUFFIX,k.ei
+  - DOMAIN-SUFFIX,k.ex
+  - DOMAIN-SUFFIX,k.hn
+  - DOMAIN-SUFFIX,k.ke
+  - DOMAIN-SUFFIX,k.kpyp
+  - DOMAIN-SUFFIX,k.kz
+  - DOMAIN-SUFFIX,k.lo
+  - DOMAIN-SUFFIX,k4.zm
+  - DOMAIN-SUFFIX,k5.hzv
+  - DOMAIN-SUFFIX,ka.uao
   - DOMAIN-SUFFIX,kd112n.proxy-cdn.ag
   - DOMAIN-SUFFIX,kd123n.proxy-cdn.ag
   - DOMAIN-SUFFIX,kd145n.proxy-cdn.ag
@@ -234,8 +608,25 @@ payload:
   - DOMAIN-SUFFIX,kd277n.proxy-cdn.ag
   - DOMAIN-SUFFIX,kd387n.proxy-cdn.ag
   - DOMAIN-SUFFIX,keyserver.cloudport.amagi.tv
+  - DOMAIN-SUFFIX,kmt.vjh
   - DOMAIN-SUFFIX,kosmo.at.sky
+  - DOMAIN-SUFFIX,kr6.wu
+  - DOMAIN-SUFFIX,ktu.qd
+  - DOMAIN-SUFFIX,ku.uud
+  - DOMAIN-SUFFIX,kwl.bt
+  - DOMAIN-SUFFIX,kxha.wp
+  - DOMAIN-SUFFIX,l.atfcc
+  - DOMAIN-SUFFIX,l.fs
+  - DOMAIN-SUFFIX,l.jrls
+  - DOMAIN-SUFFIX,l.kbcv
+  - DOMAIN-SUFFIX,l.ktxwqioe
+  - DOMAIN-SUFFIX,l.ve
+  - DOMAIN-SUFFIX,l0.rr
+  - DOMAIN-SUFFIX,l8zbs.hzb
   - DOMAIN-SUFFIX,latency-test.skk.moe
+  - DOMAIN-SUFFIX,launch-end6c8a33809694f8684febbdf83b39af8.min.js
+  - DOMAIN-SUFFIX,ldj.qz
+  - DOMAIN-SUFFIX,le.usw
   - DOMAIN-SUFFIX,lgcp-xumoent-nbcnn-2b7eb.fast.nbcuni.com
   - DOMAIN-SUFFIX,lge-static.ottera.tv
   - DOMAIN-SUFFIX,linear-1071.frequency.stream
@@ -244,23 +635,139 @@ payload:
   - DOMAIN-SUFFIX,linear-1217.frequency.stream
   - DOMAIN-SUFFIX,linear-796.frequency.stream
   - DOMAIN-SUFFIX,linear-893.frequency.stream
+  - DOMAIN-SUFFIX,linear.vevo.com
   - DOMAIN-SUFFIX,live-content-cf.xumo.com
   - DOMAIN-SUFFIX,live20.bozztv.com
   - DOMAIN-SUFFIX,livecan.blackhat.codes
+  - DOMAIN-SUFFIX,lj.n.ok
+  - DOMAIN-SUFFIX,lk.oy
+  - DOMAIN-SUFFIX,lktl.no
+  - DOMAIN-SUFFIX,localnow.com
   - DOMAIN-SUFFIX,logo.m3uassets.com
   - DOMAIN-SUFFIX,logos.mypanel.one
   - DOMAIN-SUFFIX,logx.optimizely.com
+  - DOMAIN-SUFFIX,lp.kj
+  - DOMAIN-SUFFIX,lu.qv
+  - DOMAIN-SUFFIX,lyimb.xv
+  - DOMAIN-SUFFIX,lz.cza
+  - DOMAIN-SUFFIX,m.biik
+  - DOMAIN-SUFFIX,m.bv
+  - DOMAIN-SUFFIX,m.fb
+  - DOMAIN-SUFFIX,m.fhcr
+  - DOMAIN-SUFFIX,m.fxc
+  - DOMAIN-SUFFIX,m.isge
+  - DOMAIN-SUFFIX,m.jp
   - DOMAIN-SUFFIX,m.media-amazon.com
+  - DOMAIN-SUFFIX,m.mi
+  - DOMAIN-SUFFIX,m.oe
+  - DOMAIN-SUFFIX,m.qb
+  - DOMAIN-SUFFIX,m.vbt
+  - DOMAIN-SUFFIX,m.yi
+  - DOMAIN-SUFFIX,m2.they
+  - DOMAIN-SUFFIX,m2btq.sd
+  - DOMAIN-SUFFIX,m33.svxyj
+  - DOMAIN-SUFFIX,main-bundle-7903879a.js
+  - DOMAIN-SUFFIX,mc7.ef
   - DOMAIN-SUFFIX,mcdn-01.plutotv.net
+  - DOMAIN-SUFFIX,mh.eg
+  - DOMAIN-SUFFIX,mldq4j.jzpt
   - DOMAIN-SUFFIX,moviespheregold.com
+  - DOMAIN-SUFFIX,mv.ev
+  - DOMAIN-SUFFIX,mya.wqqy
+  - DOMAIN-SUFFIX,n.addeventlistener
+  - DOMAIN-SUFFIX,n.callid
+  - DOMAIN-SUFFIX,n.command
+  - DOMAIN-SUFFIX,n.document
+  - DOMAIN-SUFFIX,n.ey
+  - DOMAIN-SUFFIX,n.frames
+  - DOMAIN-SUFFIX,n.jhs
+  - DOMAIN-SUFFIX,n.jwd
+  - DOMAIN-SUFFIX,n.kot
+  - DOMAIN-SUFFIX,n.length
+  - DOMAIN-SUFFIX,n.parameter
+  - DOMAIN-SUFFIX,n.parent
+  - DOMAIN-SUFFIX,n.qicj
+  - DOMAIN-SUFFIX,n.qx
+  - DOMAIN-SUFFIX,n.su
+  - DOMAIN-SUFFIX,n.sz
+  - DOMAIN-SUFFIX,n.version
+  - DOMAIN-SUFFIX,n.ykd
+  - DOMAIN-SUFFIX,n.yu
+  - DOMAIN-SUFFIX,n.zp
+  - DOMAIN-SUFFIX,n0f3wc.rw
+  - DOMAIN-SUFFIX,n4.tf
+  - DOMAIN-SUFFIX,n8ew.boq
+  - DOMAIN-SUFFIX,n9.fnrd
+  - DOMAIN-SUFFIX,naruto.svg
+  - DOMAIN-SUFFIX,nbc.svg
+  - DOMAIN-SUFFIX,ndb.eqgco
+  - DOMAIN-SUFFIX,ndtvspecialelemarchana.akamaized.net
+  - DOMAIN-SUFFIX,nehq.qi
   - DOMAIN-SUFFIX,nerdsthatgeek.com
   - DOMAIN-SUFFIX,news20e7hhcb.airspace-cdn.cbsivideo.com
+  - DOMAIN-SUFFIX,ni.ro
+  - DOMAIN-SUFFIX,nl.mlfx
   - DOMAIN-SUFFIX,nl1.rocketdns.info
   - DOMAIN-SUFFIX,nmx1ota.akamaized.net
+  - DOMAIN-SUFFIX,no1.ya
   - DOMAIN-SUFFIX,notifications-api.cf.sky.com
+  - DOMAIN-SUFFIX,npn.tm
   - DOMAIN-SUFFIX,ns.adobe.com
   - DOMAIN-SUFFIX,ns.tripletriangle.com
+  - DOMAIN-SUFFIX,ns.up
+  - DOMAIN-SUFFIX,nv.pz
+  - DOMAIN-SUFFIX,o.ase
+  - DOMAIN-SUFFIX,o.cmh
+  - DOMAIN-SUFFIX,o.ji
+  - DOMAIN-SUFFIX,o.jm
+  - DOMAIN-SUFFIX,o.opm
+  - DOMAIN-SUFFIX,o.tv
+  - DOMAIN-SUFFIX,o5.pnb
+  - DOMAIN-SUFFIX,ob.inz
+  - DOMAIN-SUFFIX,ob.ydlzsai
+  - DOMAIN-SUFFIX,object.defineproperty
+  - DOMAIN-SUFFIX,object.freeze
+  - DOMAIN-SUFFIX,og.wb
+  - DOMAIN-SUFFIX,olj.izs
+  - DOMAIN-SUFFIX,om.iocnxgx
+  - DOMAIN-SUFFIX,op.qk
+  - DOMAIN-SUFFIX,options.consentedpurposes
+  - DOMAIN-SUFFIX,options.consentedvendors
+  - DOMAIN-SUFFIX,options.defer
+  - DOMAIN-SUFFIX,options.id
+  - DOMAIN-SUFFIX,options.isasync
+  - DOMAIN-SUFFIX,options.purposeid
+  - DOMAIN-SUFFIX,options.src
+  - DOMAIN-SUFFIX,options.target
+  - DOMAIN-SUFFIX,options.text
+  - DOMAIN-SUFFIX,options.type
+  - DOMAIN-SUFFIX,options2.consentedpurposes
+  - DOMAIN-SUFFIX,options2.consentedpurposes.some
+  - DOMAIN-SUFFIX,options2.consentedvendors.some
+  - DOMAIN-SUFFIX,os8.vy
   - DOMAIN-SUFFIX,outtvglobal.com
+  - DOMAIN-SUFFIX,owv.hv
+  - DOMAIN-SUFFIX,oxm.dz
+  - DOMAIN-SUFFIX,oy.llp
+  - DOMAIN-SUFFIX,oyz.uq
+  - DOMAIN-SUFFIX,p.bxq
+  - DOMAIN-SUFFIX,p.cy
+  - DOMAIN-SUFFIX,p.ezk
+  - DOMAIN-SUFFIX,p.jw
+  - DOMAIN-SUFFIX,p.kt
+  - DOMAIN-SUFFIX,p.ldr
+  - DOMAIN-SUFFIX,p.mp
+  - DOMAIN-SUFFIX,p.no
+  - DOMAIN-SUFFIX,p.nog
+  - DOMAIN-SUFFIX,p.qm
+  - DOMAIN-SUFFIX,p.vpw
+  - DOMAIN-SUFFIX,p.wf
+  - DOMAIN-SUFFIX,p.xamhpo
+  - DOMAIN-SUFFIX,p.xi
+  - DOMAIN-SUFFIX,p.yum
+  - DOMAIN-SUFFIX,p.yx
+  - DOMAIN-SUFFIX,p1x.rh
+  - DOMAIN-SUFFIX,paint.net
   - DOMAIN-SUFFIX,pb-0ix3l1oxmg1fj.akamaized.net
   - DOMAIN-SUFFIX,pb-0n3n2ej0w8pl9.akamaized.net
   - DOMAIN-SUFFIX,pb-41uwb26l8gvwx.akamaized.net
@@ -287,19 +794,98 @@ payload:
   - DOMAIN-SUFFIX,pb-wgi5ljoabjgdm.akamaized.net
   - DOMAIN-SUFFIX,pb-wmei1j77c66s0.akamaized.net
   - DOMAIN-SUFFIX,pb-xp0ozx9lyqeiv.akamaized.net
+  - DOMAIN-SUFFIX,pc3.ton
+  - DOMAIN-SUFFIX,personalizationdataprovider-bundle-a74278bd.js
   - DOMAIN-SUFFIX,php.jdshipin.com
+  - DOMAIN-SUFFIX,pi.hm
+  - DOMAIN-SUFFIX,pl7.sor
+  - DOMAIN-SUFFIX,plx2.svg
+  - DOMAIN-SUFFIX,pn.vd
+  - DOMAIN-SUFFIX,polyfill-promise.js
   - DOMAIN-SUFFIX,poolc6cg1ead.airspace-cdn.cbsivideo.com
   - DOMAIN-SUFFIX,prod-s.cdn-cf.philo.com
   - DOMAIN-SUFFIX,provider-static.plex.tv
+  - DOMAIN-SUFFIX,ps.ri
   - DOMAIN-SUFFIX,purl.org
+  - DOMAIN-SUFFIX,pv.np
+  - DOMAIN-SUFFIX,q.a.nsnm
+  - DOMAIN-SUFFIX,q.ae
+  - DOMAIN-SUFFIX,q.cw
+  - DOMAIN-SUFFIX,q.ee
+  - DOMAIN-SUFFIX,q.fq
+  - DOMAIN-SUFFIX,q.glb
+  - DOMAIN-SUFFIX,q.goh
+  - DOMAIN-SUFFIX,q.ic
+  - DOMAIN-SUFFIX,q.jx
+  - DOMAIN-SUFFIX,q.nujtf
+  - DOMAIN-SUFFIX,q.polst
+  - DOMAIN-SUFFIX,q.tqc
+  - DOMAIN-SUFFIX,q.uj
+  - DOMAIN-SUFFIX,q.uorbs
+  - DOMAIN-SUFFIX,q.wi
+  - DOMAIN-SUFFIX,q.yr
+  - DOMAIN-SUFFIX,q.zc
+  - DOMAIN-SUFFIX,q289.csl
+  - DOMAIN-SUFFIX,q4q.ryh
+  - DOMAIN-SUFFIX,q4y.ny
+  - DOMAIN-SUFFIX,qc.rsqz
+  - DOMAIN-SUFFIX,qdg.uq
+  - DOMAIN-SUFFIX,qfiv.cqg
+  - DOMAIN-SUFFIX,qh.xth
+  - DOMAIN-SUFFIX,qi.ll
+  - DOMAIN-SUFFIX,qj.nxcs
+  - DOMAIN-SUFFIX,qmx.koj
+  - DOMAIN-SUFFIX,qp.vi
+  - DOMAIN-SUFFIX,qps.azd
+  - DOMAIN-SUFFIX,qsve.ae
+  - DOMAIN-SUFFIX,quln6.vk
+  - DOMAIN-SUFFIX,qv.mwz
+  - DOMAIN-SUFFIX,r.bh
+  - DOMAIN-SUFFIX,r.bkc
+  - DOMAIN-SUFFIX,r.cr
+  - DOMAIN-SUFFIX,r.dsyc
+  - DOMAIN-SUFFIX,r.jc
+  - DOMAIN-SUFFIX,r.jrf
+  - DOMAIN-SUFFIX,r.jwfz
+  - DOMAIN-SUFFIX,r.ll
+  - DOMAIN-SUFFIX,r.mzl
+  - DOMAIN-SUFFIX,r.om
+  - DOMAIN-SUFFIX,r.qgjr
+  - DOMAIN-SUFFIX,r.trd
   - DOMAIN-SUFFIX,r123n.proxy-cdn.ag
+  - DOMAIN-SUFFIX,r2.dte
+  - DOMAIN-SUFFIX,r4.lzjzs
+  - DOMAIN-SUFFIX,r6wzj.kx
   - DOMAIN-SUFFIX,raw.githubusercontent.com
+  - DOMAIN-SUFFIX,rd.fg
   - DOMAIN-SUFFIX,redfoxx.vip
   - DOMAIN-SUFFIX,release-assets.githubusercontent.com
+  - DOMAIN-SUFFIX,rf.rk
+  - DOMAIN-SUFFIX,rfh.iqt
   - DOMAIN-SUFFIX,rightsboosterltd-scl-1-us.xumo.wurl.tv
+  - DOMAIN-SUFFIX,rn7mr.rurhu
   - DOMAIN-SUFFIX,royallivetv.club
+  - DOMAIN-SUFFIX,rswt.xv
   - DOMAIN-SUFFIX,rt-glb.rttv.com
+  - DOMAIN-SUFFIX,rtz.hiqrf
+  - DOMAIN-SUFFIX,rw.lc
+  - DOMAIN-SUFFIX,rws.yigju
+  - DOMAIN-SUFFIX,ry.hkke
+  - DOMAIN-SUFFIX,s.dc
+  - DOMAIN-SUFFIX,s.dr
+  - DOMAIN-SUFFIX,s.fc
+  - DOMAIN-SUFFIX,s.fkg
+  - DOMAIN-SUFFIX,s.gaz
+  - DOMAIN-SUFFIX,s.jb
+  - DOMAIN-SUFFIX,s.mwh
+  - DOMAIN-SUFFIX,s.rnkv
   - DOMAIN-SUFFIX,s.rocketdns.info
+  - DOMAIN-SUFFIX,s.ti
+  - DOMAIN-SUFFIX,s.vxl
+  - DOMAIN-SUFFIX,s.xfn
+  - DOMAIN-SUFFIX,s.xx
+  - DOMAIN-SUFFIX,s.yk
+  - DOMAIN-SUFFIX,s0so.nr
   - DOMAIN-SUFFIX,s10host1.localnow.api.cms.amdvids.com
   - DOMAIN-SUFFIX,s11host2.localnow.api.cms.amdvids.com
   - DOMAIN-SUFFIX,s12.gifyu.com
@@ -308,19 +894,64 @@ payload:
   - DOMAIN-SUFFIX,s9.gifyu.com
   - DOMAIN-SUFFIX,samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv
   - DOMAIN-SUFFIX,schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,script.async
+  - DOMAIN-SUFFIX,script.defer
+  - DOMAIN-SUFFIX,script.id
+  - DOMAIN-SUFFIX,script.src
+  - DOMAIN-SUFFIX,script.text
+  - DOMAIN-SUFFIX,script.type
   - DOMAIN-SUFFIX,secure.sky.com
+  - DOMAIN-SUFFIX,sg.bvlo
+  - DOMAIN-SUFFIX,shoxbet.svg
+  - DOMAIN-SUFFIX,sj.se
   - DOMAIN-SUFFIX,sk.delivery.roku.com
+  - DOMAIN-SUFFIX,sk.fd
+  - DOMAIN-SUFFIX,sky-logo-redesign.png
+  - DOMAIN-SUFFIX,sky-tags-without-adobe.min.js
+  - DOMAIN-SUFFIX,sky.cmp.consent.provided
+  - DOMAIN-SUFFIX,sky.com
+  - DOMAIN-SUFFIX,sky.hook.web.page.tracking.consent.set
+  - DOMAIN-SUFFIX,sky.user.tracking.sourcepoint
   - DOMAIN-SUFFIX,skyaccessibility.sky
   - DOMAIN-SUFFIX,skyport.sky.com
   - DOMAIN-SUFFIX,slh.kop.homes
+  - DOMAIN-SUFFIX,snfptk.mop
+  - DOMAIN-SUFFIX,so0dc.sjyd
+  - DOMAIN-SUFFIX,sodipodi-0.dtd
   - DOMAIN-SUFFIX,sodipodi.sourceforge.net
   - DOMAIN-SUFFIX,sourcepoint.mgr.consensu.org
   - DOMAIN-SUFFIX,sports.cbsimg.net
+  - DOMAIN-SUFFIX,srith.webp
+  - DOMAIN-SUFFIX,static.frequency.com
   - DOMAIN-SUFFIX,static.skyassets.com
   - DOMAIN-SUFFIX,static.wikia.nocookie.net
   - DOMAIN-SUFFIX,stitcher-ipv4.pluto.tv
+  - DOMAIN-SUFFIX,svg11.dtd
+  - DOMAIN-SUFFIX,sxr.bpi
+  - DOMAIN-SUFFIX,t.akd
+  - DOMAIN-SUFFIX,t.bxw
+  - DOMAIN-SUFFIX,t.deqbocbj
+  - DOMAIN-SUFFIX,t.eum
+  - DOMAIN-SUFFIX,t.guh
+  - DOMAIN-SUFFIX,t.ke
+  - DOMAIN-SUFFIX,t.lr
+  - DOMAIN-SUFFIX,t.ml
+  - DOMAIN-SUFFIX,t.mn
+  - DOMAIN-SUFFIX,t.pza
+  - DOMAIN-SUFFIX,t.uhg
+  - DOMAIN-SUFFIX,t.we
+  - DOMAIN-SUFFIX,t.xxbb
+  - DOMAIN-SUFFIX,tcdata.eventstatus
+  - DOMAIN-SUFFIX,tg.jg
+  - DOMAIN-SUFFIX,th.gl
+  - DOMAIN-SUFFIX,this.registry
   - DOMAIN-SUFFIX,tlgrm.re
+  - DOMAIN-SUFFIX,tli.hf
+  - DOMAIN-SUFFIX,tqvdoi.nl
   - DOMAIN-SUFFIX,tsb-mega.i9.ee
+  - DOMAIN-SUFFIX,tt.uj
+  - DOMAIN-SUFFIX,tt.wf
+  - DOMAIN-SUFFIX,tt.yq
   - DOMAIN-SUFFIX,turnerlive.akamaized.net
   - DOMAIN-SUFFIX,turnerlive.warnermediacdn.com
   - DOMAIN-SUFFIX,tv-trtworld.medya.trt.com.tr
@@ -328,8 +959,61 @@ payload:
   - DOMAIN-SUFFIX,tvpnlogopeu.samsungcloud.tv
   - DOMAIN-SUFFIX,tvpnlogopus.samsungcloud.tv
   - DOMAIN-SUFFIX,twcprod-live.twc-tv.com
+  - DOMAIN-SUFFIX,u-b5.mt
+  - DOMAIN-SUFFIX,u.at
+  - DOMAIN-SUFFIX,u.cdh
+  - DOMAIN-SUFFIX,u.cn
+  - DOMAIN-SUFFIX,u.cr
+  - DOMAIN-SUFFIX,u.eg
+  - DOMAIN-SUFFIX,u.fi
+  - DOMAIN-SUFFIX,u.hv
+  - DOMAIN-SUFFIX,u.jo
+  - DOMAIN-SUFFIX,u.lljf
+  - DOMAIN-SUFFIX,u.my
+  - DOMAIN-SUFFIX,u.nnfw
+  - DOMAIN-SUFFIX,u.on
+  - DOMAIN-SUFFIX,u.qz
+  - DOMAIN-SUFFIX,u.rf
+  - DOMAIN-SUFFIX,u.ur
+  - DOMAIN-SUFFIX,u.uy
+  - DOMAIN-SUFFIX,u.yc
+  - DOMAIN-SUFFIX,u.yued
+  - DOMAIN-SUFFIX,u1.kj
+  - DOMAIN-SUFFIX,u1oq.grm
+  - DOMAIN-SUFFIX,u4.vr
+  - DOMAIN-SUFFIX,ub.ou
+  - DOMAIN-SUFFIX,ubr.wdz
+  - DOMAIN-SUFFIX,ug.mmt
+  - DOMAIN-SUFFIX,uh.vsjt
+  - DOMAIN-SUFFIX,uiw.xj
+  - DOMAIN-SUFFIX,uj.ghhycf
+  - DOMAIN-SUFFIX,ul0.toll
+  - DOMAIN-SUFFIX,univision2019.svg
   - DOMAIN-SUFFIX,upload.wikimedia.org
   - DOMAIN-SUFFIX,usatodaynews-samsungus-tsv2-ghkcu.amagi.tv
+  - DOMAIN-SUFFIX,v.ae
+  - DOMAIN-SUFFIX,v.bukc
+  - DOMAIN-SUFFIX,v.es
+  - DOMAIN-SUFFIX,v.gxs
+  - DOMAIN-SUFFIX,v.izd
+  - DOMAIN-SUFFIX,v.jmg
+  - DOMAIN-SUFFIX,v.kjw
+  - DOMAIN-SUFFIX,v.lx
+  - DOMAIN-SUFFIX,v.mjlrb
+  - DOMAIN-SUFFIX,v.og
+  - DOMAIN-SUFFIX,v.uksm
+  - DOMAIN-SUFFIX,v.utcgby
+  - DOMAIN-SUFFIX,v.vij
+  - DOMAIN-SUFFIX,v.vw
+  - DOMAIN-SUFFIX,v.xl
+  - DOMAIN-SUFFIX,v.xnwbt
+  - DOMAIN-SUFFIX,v.xqr
+  - DOMAIN-SUFFIX,v.ycn
+  - DOMAIN-SUFFIX,va.zp
+  - DOMAIN-SUFFIX,vb464i.qf
+  - DOMAIN-SUFFIX,vc.pc
+  - DOMAIN-SUFFIX,vctqi.vl
+  - DOMAIN-SUFFIX,vd.dzy
   - DOMAIN-SUFFIX,vd23n.proxy-cdn.ag
   - DOMAIN-SUFFIX,vd254.proxy-cdn.ag
   - DOMAIN-SUFFIX,vd257.proxy-cdn.ag
@@ -339,7 +1023,53 @@ payload:
   - DOMAIN-SUFFIX,vd67n.proxy-cdn.ag
   - DOMAIN-SUFFIX,vd78n.proxy-cdn.ag
   - DOMAIN-SUFFIX,vd89n.proxy-cdn.ag
+  - DOMAIN-SUFFIX,vendors-bundle-1b3ce13f.js
+  - DOMAIN-SUFFIX,versant-production-golfchannel.s3.us-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,vg96v.sx
+  - DOMAIN-SUFFIX,vhh.nqm
+  - DOMAIN-SUFFIX,vnd.adobe.illustrator
+  - DOMAIN-SUFFIX,vnd.adobe.photoshop
+  - DOMAIN-SUFFIX,vrs.tf
   - DOMAIN-SUFFIX,vs-hls-push-ww-live.akamaized.net
+  - DOMAIN-SUFFIX,vxivbvi.xbzas
+  - DOMAIN-SUFFIX,w.crvb
+  - DOMAIN-SUFFIX,w.ef
+  - DOMAIN-SUFFIX,w.ofos
+  - DOMAIN-SUFFIX,w.ua
+  - DOMAIN-SUFFIX,w.x.ym
+  - DOMAIN-SUFFIX,w.xws
+  - DOMAIN-SUFFIX,w.yfqg
+  - DOMAIN-SUFFIX,w.yh
+  - DOMAIN-SUFFIX,w2.by
+  - DOMAIN-SUFFIX,w2.hdmn
+  - DOMAIN-SUFFIX,wca.rkq
+  - DOMAIN-SUFFIX,wcz.pw
+  - DOMAIN-SUFFIX,wi.fc
+  - DOMAIN-SUFFIX,window.cmploading
+  - DOMAIN-SUFFIX,window.cmploading.loaded
+  - DOMAIN-SUFFIX,window.console
+  - DOMAIN-SUFFIX,window.console.error
+  - DOMAIN-SUFFIX,window.dtm
+  - DOMAIN-SUFFIX,window.injectscript
+  - DOMAIN-SUFFIX,window.loadprivacymanagermodal
+  - DOMAIN-SUFFIX,window.localstorage
+  - DOMAIN-SUFFIX,window.location.hostname
+  - DOMAIN-SUFFIX,window.location.href.includes
+  - DOMAIN-SUFFIX,window.location.pathname.startswith
+  - DOMAIN-SUFFIX,window.location.reload
+  - DOMAIN-SUFFIX,window.masthead
+  - DOMAIN-SUFFIX,window.promise
+  - DOMAIN-SUFFIX,window.pubsub
+  - DOMAIN-SUFFIX,window.pubsub.publish
+  - DOMAIN-SUFFIX,window.skydatalayer
+  - DOMAIN-SUFFIX,window.skytags
+  - DOMAIN-SUFFIX,window.top
+  - DOMAIN-SUFFIX,wiv.bp
+  - DOMAIN-SUFFIX,wj7.gn
+  - DOMAIN-SUFFIX,wkgz.ldw
+  - DOMAIN-SUFFIX,worj.rj.rj
+  - DOMAIN-SUFFIX,wq4.he
+  - DOMAIN-SUFFIX,wrappermessagingwithoutdetection.js
   - DOMAIN-SUFFIX,wurlgameshownetwork.global.transmit.live
   - DOMAIN-SUFFIX,www.940media.org
   - DOMAIN-SUFFIX,www.bell.ca
@@ -347,12 +1077,33 @@ payload:
   - DOMAIN-SUFFIX,www.extensis.com
   - DOMAIN-SUFFIX,www.inkscape.org
   - DOMAIN-SUFFIX,www.nos.pt
+  - DOMAIN-SUFFIX,www.samsung.com
   - DOMAIN-SUFFIX,www.schema.org
   - DOMAIN-SUFFIX,www.sky.com
   - DOMAIN-SUFFIX,www.skygroup.sky
   - DOMAIN-SUFFIX,www.starz.com
   - DOMAIN-SUFFIX,www.vodafone.de
   - DOMAIN-SUFFIX,www.w3.org
+  - DOMAIN-SUFFIX,x.eq
+  - DOMAIN-SUFFIX,x.fd
+  - DOMAIN-SUFFIX,x.kq
+  - DOMAIN-SUFFIX,x.lm
+  - DOMAIN-SUFFIX,x.mu
+  - DOMAIN-SUFFIX,x.of
+  - DOMAIN-SUFFIX,x.tb
+  - DOMAIN-SUFFIX,x.wd
+  - DOMAIN-SUFFIX,x.wzi
+  - DOMAIN-SUFFIX,x.zkn
+  - DOMAIN-SUFFIX,x1.mj
+  - DOMAIN-SUFFIX,x2.gyr
+  - DOMAIN-SUFFIX,x5yr.wim
+  - DOMAIN-SUFFIX,x6.cm
+  - DOMAIN-SUFFIX,xg.fyab
+  - DOMAIN-SUFFIX,xj.ur
+  - DOMAIN-SUFFIX,xml.gz
+  - DOMAIN-SUFFIX,xmp.did
+  - DOMAIN-SUFFIX,xmp.id
+  - DOMAIN-SUFFIX,xmp.iid
   - DOMAIN-SUFFIX,xumo-drct-skynews-nc91a.fast.nbcuni.com
   - DOMAIN-SUFFIX,xumo-xumoent-ch824-d4q5c.fast.nbcuni.com
   - DOMAIN-SUFFIX,xumo-xumoent-ch828-w6val.fast.nbcuni.com
@@ -361,20 +1112,69 @@ payload:
   - DOMAIN-SUFFIX,xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com
   - DOMAIN-SUFFIX,xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com
   - DOMAIN-SUFFIX,xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
+  - DOMAIN-SUFFIX,xwa-x6z.yv
+  - DOMAIN-SUFFIX,y.co
+  - DOMAIN-SUFFIX,y.dv
+  - DOMAIN-SUFFIX,y.fn
+  - DOMAIN-SUFFIX,y.lzz
+  - DOMAIN-SUFFIX,y.na
+  - DOMAIN-SUFFIX,y.reuf
+  - DOMAIN-SUFFIX,y.rq
+  - DOMAIN-SUFFIX,y.rv
+  - DOMAIN-SUFFIX,y.wf
+  - DOMAIN-SUFFIX,y.z.kyh
+  - DOMAIN-SUFFIX,y8.stmt
+  - DOMAIN-SUFFIX,yd.lfst
+  - DOMAIN-SUFFIX,ye.pz
+  - DOMAIN-SUFFIX,yj2.un
+  - DOMAIN-SUFFIX,ym.pch
+  - DOMAIN-SUFFIX,yu.bh
+  - DOMAIN-SUFFIX,yu.zx
+  - DOMAIN-SUFFIX,yv.mizx
+  - DOMAIN-SUFFIX,yy.oh
+  - DOMAIN-SUFFIX,z.an.vk
+  - DOMAIN-SUFFIX,z.hj
+  - DOMAIN-SUFFIX,z.ltj
+  - DOMAIN-SUFFIX,z.mlupy
+  - DOMAIN-SUFFIX,z.mmc
+  - DOMAIN-SUFFIX,z.ofv
+  - DOMAIN-SUFFIX,z.qi
+  - DOMAIN-SUFFIX,z.rz
+  - DOMAIN-SUFFIX,z.ta
+  - DOMAIN-SUFFIX,z4juc.tk
+  - DOMAIN-SUFFIX,za.hp
+  - DOMAIN-SUFFIX,zg7g.sy
+  - DOMAIN-SUFFIX,zh.jkje
+  - DOMAIN-SUFFIX,zk.ags
+  - DOMAIN-SUFFIX,zk.pf
+  - DOMAIN-SUFFIX,zmv.hk
+  - DOMAIN-SUFFIX,zn.ta
+  - DOMAIN-SUFFIX,zo.wu
+  - DOMAIN-SUFFIX,zt-0x.vx
+  - DOMAIN-SUFFIX,zuj.aw
+  - DOMAIN-SUFFIX,zy.dd
+  - DOMAIN-SUFFIX,zzh.xx
   - IP-CIDR,100.20.0.0/16
   - IP-CIDR,100.22.0.0/16
-  - IP-CIDR,100.50.0.0/16
+  - IP-CIDR,100.28.0.0/16
+  - IP-CIDR,100.48.0.0/16
+  - IP-CIDR,100.50.0.0/15
   - IP-CIDR,100.60.0.0/16
   - IP-CIDR,100.62.0.0/16
   - IP-CIDR,103.175.0.0/16
   - IP-CIDR,103.176.0.0/16
   - IP-CIDR,103.211.0.0/16
+  - IP-CIDR,103.224.0.0/16
+  - IP-CIDR,103.96.0.0/16
   - IP-CIDR,104.131.0.0/16
   - IP-CIDR,104.18.0.0/15
   - IP-CIDR,104.20.0.0/15
+  - IP-CIDR,107.150.0.0/16
   - IP-CIDR,13.226.0.0/16
-  - IP-CIDR,13.249.0.0/16
+  - IP-CIDR,13.248.0.0/15
   - IP-CIDR,13.32.0.0/15
+  - IP-CIDR,13.52.0.0/16
+  - IP-CIDR,135.148.0.0/16
   - IP-CIDR,136.110.0.0/16
   - IP-CIDR,138.199.0.0/16
   - IP-CIDR,140.211.0.0/16
@@ -387,6 +1187,7 @@ payload:
   - IP-CIDR,151.101.0.0/16
   - IP-CIDR,154.53.0.0/16
   - IP-CIDR,155.102.0.0/16
+  - IP-CIDR,156.226.0.0/16
   - IP-CIDR,16.144.0.0/15
   - IP-CIDR,16.148.0.0/16
   - IP-CIDR,16.15.0.0/16
@@ -394,6 +1195,7 @@ payload:
   - IP-CIDR,161.129.0.0/16
   - IP-CIDR,163.181.0.0/16
   - IP-CIDR,167.235.0.0/16
+  - IP-CIDR,167.71.0.0/16
   - IP-CIDR,172.110.0.0/16
   - IP-CIDR,172.64.0.0/16
   - IP-CIDR,172.67.0.0/16
@@ -416,8 +1218,10 @@ payload:
   - IP-CIDR,185.245.0.0/16
   - IP-CIDR,192.109.0.0/16
   - IP-CIDR,192.142.0.0/16
+  - IP-CIDR,194.62.0.0/16
   - IP-CIDR,194.76.0.0/16
   - IP-CIDR,195.128.0.0/16
+  - IP-CIDR,195.210.0.0/16
   - IP-CIDR,198.255.0.0/16
   - IP-CIDR,198.35.0.0/16
   - IP-CIDR,199.232.0.0/16
@@ -428,22 +1232,29 @@ payload:
   - IP-CIDR,207.121.0.0/16
   - IP-CIDR,207.241.0.0/16
   - IP-CIDR,208.79.0.0/16
+  - IP-CIDR,213.160.0.0/16
   - IP-CIDR,216.137.0.0/16
+  - IP-CIDR,216.162.0.0/16
+  - IP-CIDR,216.198.0.0/16
   - IP-CIDR,216.227.0.0/16
   - IP-CIDR,23.203.0.0/16
+  - IP-CIDR,23.206.0.0/16
   - IP-CIDR,23.214.0.0/16
   - IP-CIDR,23.237.0.0/16
   - IP-CIDR,23.41.0.0/16
   - IP-CIDR,23.46.0.0/16
+  - IP-CIDR,3.139.0.0/16
   - IP-CIDR,3.163.0.0/16
   - IP-CIDR,3.167.0.0/16
   - IP-CIDR,3.168.0.0/15
   - IP-CIDR,3.210.0.0/16
   - IP-CIDR,3.212.0.0/16
   - IP-CIDR,3.214.0.0/16
+  - IP-CIDR,3.216.0.0/16
   - IP-CIDR,3.219.0.0/16
   - IP-CIDR,3.222.0.0/16
   - IP-CIDR,3.68.0.0/16
+  - IP-CIDR,31.14.0.0/16
   - IP-CIDR,32.184.0.0/14
   - IP-CIDR,32.188.0.0/16
   - IP-CIDR,32.193.0.0/16
@@ -455,6 +1266,7 @@ payload:
   - IP-CIDR,34.160.0.0/16
   - IP-CIDR,34.193.0.0/16
   - IP-CIDR,34.195.0.0/16
+  - IP-CIDR,34.200.0.0/16
   - IP-CIDR,34.208.0.0/16
   - IP-CIDR,34.211.0.0/16
   - IP-CIDR,34.231.0.0/16
@@ -463,14 +1275,17 @@ payload:
   - IP-CIDR,35.160.0.0/16
   - IP-CIDR,35.164.0.0/15
   - IP-CIDR,35.170.0.0/16
+  - IP-CIDR,35.71.0.0/16
   - IP-CIDR,35.82.0.0/16
   - IP-CIDR,35.84.0.0/16
   - IP-CIDR,35.95.0.0/16
   - IP-CIDR,37.27.0.0/16
+  - IP-CIDR,43.154.0.0/16
   - IP-CIDR,43.250.0.0/16
   - IP-CIDR,44.214.0.0/16
   - IP-CIDR,44.218.0.0/16
   - IP-CIDR,44.221.0.0/16
+  - IP-CIDR,44.223.0.0/16
   - IP-CIDR,44.225.0.0/16
   - IP-CIDR,44.227.0.0/16
   - IP-CIDR,44.229.0.0/16
@@ -482,9 +1297,13 @@ payload:
   - IP-CIDR,44.254.0.0/15
   - IP-CIDR,45.12.0.0/16
   - IP-CIDR,45.139.0.0/16
+  - IP-CIDR,45.151.0.0/16
   - IP-CIDR,45.155.0.0/16
   - IP-CIDR,46.229.0.0/16
+  - IP-CIDR,46.23.0.0/16
+  - IP-CIDR,5.189.0.0/16
   - IP-CIDR,50.112.0.0/16
+  - IP-CIDR,50.87.0.0/16
   - IP-CIDR,51.81.0.0/16
   - IP-CIDR,52.1.0.0/16
   - IP-CIDR,52.11.0.0/16
@@ -500,7 +1319,9 @@ payload:
   - IP-CIDR,52.38.0.0/16
   - IP-CIDR,52.41.0.0/16
   - IP-CIDR,52.5.0.0/16
+  - IP-CIDR,52.52.0.0/16
   - IP-CIDR,52.6.0.0/16
+  - IP-CIDR,52.70.0.0/16
   - IP-CIDR,52.72.0.0/16
   - IP-CIDR,52.84.0.0/15
   - IP-CIDR,52.86.0.0/16
@@ -524,15 +1345,21 @@ payload:
   - IP-CIDR,63.181.0.0/16
   - IP-CIDR,63.185.0.0/16
   - IP-CIDR,63.186.0.0/15
+  - IP-CIDR,64.70.0.0/16
   - IP-CIDR,65.254.0.0/16
   - IP-CIDR,74.120.0.0/16
+  - IP-CIDR,75.2.0.0/16
+  - IP-CIDR,76.223.0.0/16
   - IP-CIDR,77.74.0.0/16
   - IP-CIDR,79.127.0.0/16
+  - IP-CIDR,82.165.0.0/16
   - IP-CIDR,84.17.0.0/16
   - IP-CIDR,85.92.0.0/16
   - IP-CIDR,89.187.0.0/16
   - IP-CIDR,89.222.0.0/16
   - IP-CIDR,89.36.0.0/15
   - IP-CIDR,90.216.0.0/16
+  - IP-CIDR,91.209.0.0/16
   - IP-CIDR,98.95.0.0/16
+  - IP-CIDR,99.83.0.0/16
   - IP-CIDR,99.84.0.0/16
