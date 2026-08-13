@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/marcuccilli/gary/refs/heads/main/iptv_clash.ya
 
 
 
-########   Surge/Loon   ########   list格式
+########   Surge/Loon/小火箭   ########   list格式
 
 https://raw.githubusercontent.com/marcuccilli/gary/refs/heads/main/iptv_surge.list
 
