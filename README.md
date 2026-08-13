@@ -9,7 +9,7 @@ Gary源白名单,
 ########   Mihomo/Clash mi   ########   MRS格式,需区分域名/cidr.两个mrs文件都需要添加进分流策略
 
 https://raw.githubusercontent.com/marcuccilli/gary/refs/heads/main/iptv_mihomo_domain.mrs
-https://raw.githubusercontent.com/marcuccilli/gary/refs/heads/iptv_mihomo_ipcidr.mrs
+https://raw.githubusercontent.com/marcuccilli/gary/refs/heads/main/iptv_mihomo_ipcidr.mrs
 
 
 
