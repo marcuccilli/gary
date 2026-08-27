@@ -12,8 +12,10 @@ domain:5393127.norvixal.cc
 domain:5393127.nyxovrix.cc
 domain:5393127.orvixion.cc
 domain:5393127.oryvixon.cc
+domain:5393127.qiravion.cc
 domain:5393127.quanviro.cc
 domain:5393127.terovixa.cc
+domain:5393127.velovrix.cc
 domain:5393127.vexovrix.cc
 domain:5393127.xelovrix.cc
 domain:7447975b.wurl.com
