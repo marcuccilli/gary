@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,amd-mediator-eolq3tk4la-uk.a.run.app
 DOMAIN-SUFFIX,amg00089-bellmedia-amg00089c16-lg-ca-9432.playouts.now.amagi.tv
 DOMAIN-SUFFIX,amg00089-bellmedia-amg00089c17-lg-ca-9431.playouts.now.amagi.tv
 DOMAIN-SUFFIX,amg00106-france24-france24-samsunguk-qvpp8.amagi.tv
+DOMAIN-SUFFIX,amg00136-amg00136c18-amgplt0020.playout.now3.amagi.tv
 DOMAIN-SUFFIX,amg00136-wbd-amg00136c10-lg-us-1934.playouts.now.amagi.tv
 DOMAIN-SUFFIX,amg00136-wbd-amg00136c14-lg-us-1937.playouts.now.amagi.tv
 DOMAIN-SUFFIX,amg00136-wbd-amg00136c16-xumo-us-6502.playouts.now.amagi.tv
@@ -82,6 +83,7 @@ DOMAIN-SUFFIX,amg16186-amg16186c1-amgplt0055.playout.now3.amagi.tv
 DOMAIN-SUFFIX,app.do
 DOMAIN-SUFFIX,assets.golfchannel.com
 DOMAIN-SUFFIX,atlanticflixtv.online
+DOMAIN-SUFFIX,b9f2b36f.wurl.com
 DOMAIN-SUFFIX,bbb-billi-xumo.otteravision.com
 DOMAIN-SUFFIX,bbb-bowl-xumo.otteravision.com
 DOMAIN-SUFFIX,bgdc.live
@@ -178,6 +180,7 @@ DOMAIN-SUFFIX,dwamdstream102.akamaized.net
 DOMAIN-SUFFIX,dzz957bqk62e8.cloudfront.net
 DOMAIN-SUFFIX,ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,english-livebkali.cgtn.com
+DOMAIN-SUFFIX,epg-ipv4.provider.plex.tv
 DOMAIN-SUFFIX,epg.provider.plex.tv
 DOMAIN-SUFFIX,epgshare01.online
 DOMAIN-SUFFIX,fast-channels.sinclairstoryline.com
@@ -199,9 +202,12 @@ DOMAIN-SUFFIX,images.sr.roku.com
 DOMAIN-SUFFIX,innovationtv.eu
 DOMAIN-SUFFIX,iptvboss.xyz
 DOMAIN-SUFFIX,jmp2.uk
+DOMAIN-SUFFIX,keyserver.cloudport.amagi.tv
 DOMAIN-SUFFIX,lgcp-xumoent-nbcnn-2b7eb.fast.nbcuni.com
 DOMAIN-SUFFIX,lge-static.ottera.tv
 DOMAIN-SUFFIX,linear-1071.frequency.stream
+DOMAIN-SUFFIX,linear-1147.frequency.stream
+DOMAIN-SUFFIX,linear-1148.frequency.stream
 DOMAIN-SUFFIX,linear-1217.frequency.stream
 DOMAIN-SUFFIX,linear-796.frequency.stream
 DOMAIN-SUFFIX,linear-893.frequency.stream
@@ -231,6 +237,7 @@ DOMAIN-SUFFIX,pb-fbdfahhani6sz.akamaized.net
 DOMAIN-SUFFIX,pb-ft51qiiwihqtb.akamaized.net
 DOMAIN-SUFFIX,pb-hum8cczphcrpf.akamaized.net
 DOMAIN-SUFFIX,pb-iiczlgfysam0q.akamaized.net
+DOMAIN-SUFFIX,pb-k71qdbyvm4gcs.akamaized.net
 DOMAIN-SUFFIX,pb-k9ze87giq7fqf.akamaized.net
 DOMAIN-SUFFIX,pb-m89wlp8flmjzf.akamaized.net
 DOMAIN-SUFFIX,pb-pskpwdav4v1e3.akamaized.net
@@ -252,10 +259,12 @@ DOMAIN-SUFFIX,rt-glb.rttv.com
 DOMAIN-SUFFIX,s10host1.localnow.api.cms.amdvids.com
 DOMAIN-SUFFIX,s11host2.localnow.api.cms.amdvids.com
 DOMAIN-SUFFIX,s12.gifyu.com
+DOMAIN-SUFFIX,s2host5.localnow.api.cms.amdvids.com
 DOMAIN-SUFFIX,s8host3.localnow.api.cms.amdvids.com
 DOMAIN-SUFFIX,s9.gifyu.com
 DOMAIN-SUFFIX,samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv
 DOMAIN-SUFFIX,schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,sis-global.prod.samsungtv.plus
 DOMAIN-SUFFIX,sk.delivery.roku.com
 DOMAIN-SUFFIX,slh.kop.homes
 DOMAIN-SUFFIX,sports.cbsimg.net
@@ -263,6 +272,7 @@ DOMAIN-SUFFIX,static.wikia.nocookie.net
 DOMAIN-SUFFIX,stitcher-ipv4.pluto.tv
 DOMAIN-SUFFIX,tlgrm.re
 DOMAIN-SUFFIX,tsb-mega.i9.ee
+DOMAIN-SUFFIX,turnerlive.akamaized.net
 DOMAIN-SUFFIX,turnerlive.warnermediacdn.com
 DOMAIN-SUFFIX,tv-trtworld.medya.trt.com.tr
 DOMAIN-SUFFIX,tvplus-cdn.www.funke.video
@@ -294,6 +304,7 @@ IP-CIDR,103.211.103.0/24
 IP-CIDR,138.199.2.0/24
 IP-CIDR,143.244.60.0/24
 IP-CIDR,148.224.24.0/24
+IP-CIDR,148.224.25.0/24
 IP-CIDR,161.129.60.0/24
 IP-CIDR,172.110.219.0/24
 IP-CIDR,185.243.7.0/24
