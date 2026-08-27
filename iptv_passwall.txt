@@ -168,6 +168,7 @@ domain:dblg512iwb2z0.cloudfront.net
 domain:dbrb49pjoymg4.cloudfront.net
 domain:dh18i7whff86v.cloudfront.net
 domain:dhjd4u7ds8bgi.cloudfront.net
+domain:did3h2ysc2rkk.cloudfront.net
 domain:dki01q1l7yn3y.cloudfront.net
 domain:dn7vkzd5khpp3.cloudfront.net
 domain:dnf08l6u6uxnz.cloudfront.net
@@ -322,6 +323,7 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 43.250.127.0/24
 45.139.122.0/24
 45.155.226.0/24
+79.127.243.0/24
 79.127.248.0/24
 84.17.44.0/24
 84.17.63.0/24

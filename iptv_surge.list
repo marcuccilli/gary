@@ -168,6 +168,7 @@ DOMAIN-SUFFIX,dblg512iwb2z0.cloudfront.net
 DOMAIN-SUFFIX,dbrb49pjoymg4.cloudfront.net
 DOMAIN-SUFFIX,dh18i7whff86v.cloudfront.net
 DOMAIN-SUFFIX,dhjd4u7ds8bgi.cloudfront.net
+DOMAIN-SUFFIX,did3h2ysc2rkk.cloudfront.net
 DOMAIN-SUFFIX,dki01q1l7yn3y.cloudfront.net
 DOMAIN-SUFFIX,dn7vkzd5khpp3.cloudfront.net
 DOMAIN-SUFFIX,dnf08l6u6uxnz.cloudfront.net
@@ -322,6 +323,7 @@ IP-CIDR,23.239.31.0/24
 IP-CIDR,43.250.127.0/24
 IP-CIDR,45.139.122.0/24
 IP-CIDR,45.155.226.0/24
+IP-CIDR,79.127.243.0/24
 IP-CIDR,79.127.248.0/24
 IP-CIDR,84.17.44.0/24
 IP-CIDR,84.17.63.0/24
