@@ -1,6 +1,6 @@
 # NAME: Gary 源
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 339
+# RULES: 340
 # SOURCES:
 # - https://garysclub.sharewithyou.dpdns.org/garysclub.m3u
 
@@ -13,6 +13,7 @@ name = Gary 源
 2, 52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com
 2, 5393127.axionvex.cc
 2, 5393127.calivorn.cc
+2, 5393127.calovrix.cc
 2, 5393127.jexovryn.cc
 2, 5393127.maviryon.cc
 2, 5393127.netovrix.cc
