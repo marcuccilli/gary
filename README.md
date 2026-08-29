@@ -31,6 +31,12 @@ https://raw.githubusercontent.com/marcuccilli/gary/refs/heads/main/iptv_surge.li
 
 
 
+########   anywhere   ########   arrs格式
+
+https://raw.githubusercontent.com/marcuccilli/gary/refs/heads/main/iptv_anywhere.arrs
+
+
+
 
 
 
