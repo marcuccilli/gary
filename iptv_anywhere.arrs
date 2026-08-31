@@ -1,6 +1,6 @@
 # NAME: Gary 源
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 348
+# RULES: 349
 # SOURCES:
 # - https://garysclub.sharewithyou.dpdns.org/garysclub.m3u
 
@@ -297,6 +297,7 @@ name = Gary 源
 2, tvpnlogopeu.samsungcloud.tv
 2, tvpnlogopus.samsungcloud.tv
 2, twcprod-live.twc-tv.com
+2, unified-ad-segment-cdn-ak-us-east-2.akamaized.net
 2, upload.wikimedia.org
 2, usatodaynews-samsungus-tsv2-ghkcu.amagi.tv
 2, vs-hls-push-ww-live.akamaized.net
