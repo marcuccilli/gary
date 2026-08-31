@@ -1,6 +1,6 @@
 # NAME: Gary 源
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 342
+# RULES: 348
 # SOURCES:
 # - https://garysclub.sharewithyou.dpdns.org/garysclub.m3u
 
@@ -150,6 +150,7 @@ name = Gary 源
 2, d37lhv1m2qsipm.cloudfront.net
 2, d38d8jwr5u7ckx.cloudfront.net
 2, d3a6p9masi26ag.cloudfront.net
+2, d3a758x015e11m.cloudfront.net
 2, d3b3ldcvgsu291.cloudfront.net
 2, d3b6q2ou5kp8ke.cloudfront.net
 2, d3bd0tgyk368z1.cloudfront.net
@@ -213,6 +214,7 @@ name = Gary 源
 2, images.pluto.tv
 2, images.prismic.io
 2, images.sr.roku.com
+2, imageservice.disco.peacocktv.com
 2, innovationtv.eu
 2, iptvboss.xyz
 2, jmp2.uk
@@ -269,6 +271,8 @@ name = Gary 源
 2, provider-static.plex.tv
 2, purl.org
 2, rightsboosterltd-scl-1-us.xumo.wurl.tv
+2, rocketfx.uk
+2, royallivetv.club
 2, rt-glb.rttv.com
 2, s10host1.localnow.api.cms.amdvids.com
 2, s11host2.localnow.api.cms.amdvids.com
@@ -325,6 +329,7 @@ name = Gary 源
 0, 185.243.7.0/24
 0, 185.245.0.0/24
 0, 192.109.138.0/24
+0, 192.142.27.0/24
 0, 194.76.0.0/24
 0, 195.128.25.0/24
 0, 195.128.27.0/24
@@ -333,6 +338,7 @@ name = Gary 源
 0, 23.237.104.0/24
 0, 23.239.31.0/24
 0, 43.250.127.0/24
+0, 45.12.33.0/24
 0, 45.139.122.0/24
 0, 45.155.226.0/24
 0, 79.127.243.0/24

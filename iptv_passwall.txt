@@ -143,6 +143,7 @@ domain:d37i8mvsaxucfl.cloudfront.net
 domain:d37lhv1m2qsipm.cloudfront.net
 domain:d38d8jwr5u7ckx.cloudfront.net
 domain:d3a6p9masi26ag.cloudfront.net
+domain:d3a758x015e11m.cloudfront.net
 domain:d3b3ldcvgsu291.cloudfront.net
 domain:d3b6q2ou5kp8ke.cloudfront.net
 domain:d3bd0tgyk368z1.cloudfront.net
@@ -206,6 +207,7 @@ domain:images.contentstack.io
 domain:images.pluto.tv
 domain:images.prismic.io
 domain:images.sr.roku.com
+domain:imageservice.disco.peacocktv.com
 domain:innovationtv.eu
 domain:iptvboss.xyz
 domain:jmp2.uk
@@ -262,6 +264,8 @@ domain:prod-s.cdn-cf.philo.com
 domain:provider-static.plex.tv
 domain:purl.org
 domain:rightsboosterltd-scl-1-us.xumo.wurl.tv
+domain:rocketfx.uk
+domain:royallivetv.club
 domain:rt-glb.rttv.com
 domain:s10host1.localnow.api.cms.amdvids.com
 domain:s11host2.localnow.api.cms.amdvids.com
@@ -318,6 +322,7 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 185.243.7.0/24
 185.245.0.0/24
 192.109.138.0/24
+192.142.27.0/24
 194.76.0.0/24
 195.128.25.0/24
 195.128.27.0/24
@@ -326,6 +331,7 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 23.237.104.0/24
 23.239.31.0/24
 43.250.127.0/24
+45.12.33.0/24
 45.139.122.0/24
 45.155.226.0/24
 79.127.243.0/24
