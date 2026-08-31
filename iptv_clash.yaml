@@ -95,6 +95,7 @@ payload:
   - DOMAIN-SUFFIX,bbb-bowl-xumo.otteravision.com
   - DOMAIN-SUFFIX,bgdc.live
   - DOMAIN-SUFFIX,c.mjh.nz
+  - DOMAIN-SUFFIX,cdn.broadbandtvnews.com
   - DOMAIN-SUFFIX,cdn.freebiesupply.com
   - DOMAIN-SUFFIX,cdn.mos.cms.futurecdn.net
   - DOMAIN-SUFFIX,cdn.qd.je
@@ -198,6 +199,7 @@ payload:
   - DOMAIN-SUFFIX,ftv1.b-cdn.net
   - DOMAIN-SUFFIX,garysclub.sharewithyou.dpdns.org
   - DOMAIN-SUFFIX,go4.pw
+  - DOMAIN-SUFFIX,goldbach.com
   - DOMAIN-SUFFIX,gvqzylrx77.execute-api.ap-southeast-2.amazonaws.com
   - DOMAIN-SUFFIX,hls-beacons-us.xumo.com
   - DOMAIN-SUFFIX,i.ibb.co
@@ -286,6 +288,7 @@ payload:
   - DOMAIN-SUFFIX,tsb-mega.i9.ee
   - DOMAIN-SUFFIX,turnerlive.akamaized.net
   - DOMAIN-SUFFIX,turnerlive.warnermediacdn.com
+  - DOMAIN-SUFFIX,tv-pl-prod.yo-digital.com
   - DOMAIN-SUFFIX,tv-trtworld.medya.trt.com.tr
   - DOMAIN-SUFFIX,tvplus-cdn.www.funke.video
   - DOMAIN-SUFFIX,tvpnlogopeu.samsungcloud.tv

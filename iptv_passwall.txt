@@ -94,6 +94,7 @@ domain:bbb-billi-xumo.otteravision.com
 domain:bbb-bowl-xumo.otteravision.com
 domain:bgdc.live
 domain:c.mjh.nz
+domain:cdn.broadbandtvnews.com
 domain:cdn.freebiesupply.com
 domain:cdn.mos.cms.futurecdn.net
 domain:cdn.qd.je
@@ -197,6 +198,7 @@ domain:freqsyndlin.redbull.com
 domain:ftv1.b-cdn.net
 domain:garysclub.sharewithyou.dpdns.org
 domain:go4.pw
+domain:goldbach.com
 domain:gvqzylrx77.execute-api.ap-southeast-2.amazonaws.com
 domain:hls-beacons-us.xumo.com
 domain:i.ibb.co
@@ -285,6 +287,7 @@ domain:tlgrm.re
 domain:tsb-mega.i9.ee
 domain:turnerlive.akamaized.net
 domain:turnerlive.warnermediacdn.com
+domain:tv-pl-prod.yo-digital.com
 domain:tv-trtworld.medya.trt.com.tr
 domain:tvplus-cdn.www.funke.video
 domain:tvpnlogopeu.samsungcloud.tv

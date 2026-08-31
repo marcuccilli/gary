@@ -1,6 +1,6 @@
 # NAME: Gary 源
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 349
+# RULES: 352
 # SOURCES:
 # - https://garysclub.sharewithyou.dpdns.org/garysclub.m3u
 
@@ -101,6 +101,7 @@ name = Gary 源
 2, bbb-bowl-xumo.otteravision.com
 2, bgdc.live
 2, c.mjh.nz
+2, cdn.broadbandtvnews.com
 2, cdn.freebiesupply.com
 2, cdn.mos.cms.futurecdn.net
 2, cdn.qd.je
@@ -204,6 +205,7 @@ name = Gary 源
 2, ftv1.b-cdn.net
 2, garysclub.sharewithyou.dpdns.org
 2, go4.pw
+2, goldbach.com
 2, gvqzylrx77.execute-api.ap-southeast-2.amazonaws.com
 2, hls-beacons-us.xumo.com
 2, i.ibb.co
@@ -292,6 +294,7 @@ name = Gary 源
 2, tsb-mega.i9.ee
 2, turnerlive.akamaized.net
 2, turnerlive.warnermediacdn.com
+2, tv-pl-prod.yo-digital.com
 2, tv-trtworld.medya.trt.com.tr
 2, tvplus-cdn.www.funke.video
 2, tvpnlogopeu.samsungcloud.tv
