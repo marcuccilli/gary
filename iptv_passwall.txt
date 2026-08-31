@@ -9,8 +9,10 @@ domain:5393127.calivorn.cc
 domain:5393127.calovrix.cc
 domain:5393127.jexovryn.cc
 domain:5393127.klyovrix.cc
+domain:5393127.lumorvex.cc
 domain:5393127.maviryon.cc
 domain:5393127.netovrix.cc
+domain:5393127.nexovrix.cc
 domain:5393127.norvixal.cc
 domain:5393127.nyxovrix.cc
 domain:5393127.orvixion.cc
@@ -18,6 +20,8 @@ domain:5393127.oryvixon.cc
 domain:5393127.qiravion.cc
 domain:5393127.quanviro.cc
 domain:5393127.terovixa.cc
+domain:5393127.trionvex.cc
+domain:5393127.velnixar.cc
 domain:5393127.velovrix.cc
 domain:5393127.vexovrix.cc
 domain:5393127.xelovrix.cc
