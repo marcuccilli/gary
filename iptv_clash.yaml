@@ -301,6 +301,7 @@ payload:
   - DOMAIN-SUFFIX,unified-ad-segment-cdn-ak-us-east-2.akamaized.net
   - DOMAIN-SUFFIX,upload.wikimedia.org
   - DOMAIN-SUFFIX,usatodaynews-samsungus-tsv2-ghkcu.amagi.tv
+  - DOMAIN-SUFFIX,vps.sharewithyou.dpdns.org
   - DOMAIN-SUFFIX,vs-hls-push-ww-live.akamaized.net
   - DOMAIN-SUFFIX,wurlgameshownetwork.global.transmit.live
   - DOMAIN-SUFFIX,www.bell.ca

@@ -1,6 +1,6 @@
 # NAME: Gary 源
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 356
+# RULES: 357
 # SOURCES:
 # - https://garysclub.sharewithyou.dpdns.org/garysclub.m3u
 
@@ -307,6 +307,7 @@ name = Gary 源
 2, unified-ad-segment-cdn-ak-us-east-2.akamaized.net
 2, upload.wikimedia.org
 2, usatodaynews-samsungus-tsv2-ghkcu.amagi.tv
+2, vps.sharewithyou.dpdns.org
 2, vs-hls-push-ww-live.akamaized.net
 2, wurlgameshownetwork.global.transmit.live
 2, www.bell.ca
