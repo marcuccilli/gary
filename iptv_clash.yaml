@@ -102,6 +102,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.broadbandtvnews.com
   - DOMAIN-SUFFIX,cdn.freebiesupply.com
   - DOMAIN-SUFFIX,cdn.mos.cms.futurecdn.net
+  - DOMAIN-SUFFIX,cdn.prod.funke.video
   - DOMAIN-SUFFIX,cdn.qd.je
   - DOMAIN-SUFFIX,cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
   - DOMAIN-SUFFIX,citynewsregional.akamaized.net

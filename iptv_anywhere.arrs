@@ -1,6 +1,6 @@
 # NAME: Gary 源
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 357
+# RULES: 358
 # SOURCES:
 # - https://garysclub.sharewithyou.dpdns.org/garysclub.m3u
 
@@ -108,6 +108,7 @@ name = Gary 源
 2, cdn.broadbandtvnews.com
 2, cdn.freebiesupply.com
 2, cdn.mos.cms.futurecdn.net
+2, cdn.prod.funke.video
 2, cdn.qd.je
 2, cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
 2, citynewsregional.akamaized.net

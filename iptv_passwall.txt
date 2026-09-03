@@ -101,6 +101,7 @@ domain:c.mjh.nz
 domain:cdn.broadbandtvnews.com
 domain:cdn.freebiesupply.com
 domain:cdn.mos.cms.futurecdn.net
+domain:cdn.prod.funke.video
 domain:cdn.qd.je
 domain:cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
 domain:citynewsregional.akamaized.net
