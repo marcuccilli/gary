@@ -181,6 +181,7 @@ payload:
   - DOMAIN-SUFFIX,dh18i7whff86v.cloudfront.net
   - DOMAIN-SUFFIX,dhjd4u7ds8bgi.cloudfront.net
   - DOMAIN-SUFFIX,did3h2ysc2rkk.cloudfront.net
+  - DOMAIN-SUFFIX,digi.dtv3.lol
   - DOMAIN-SUFFIX,dki01q1l7yn3y.cloudfront.net
   - DOMAIN-SUFFIX,dn7vkzd5khpp3.cloudfront.net
   - DOMAIN-SUFFIX,dnf08l6u6uxnz.cloudfront.net
@@ -330,6 +331,7 @@ payload:
   - IP-CIDR,161.129.60.0/24
   - IP-CIDR,172.110.219.0/24
   - IP-CIDR,181.233.127.0/24
+  - IP-CIDR,185.217.39.0/24
   - IP-CIDR,185.243.7.0/24
   - IP-CIDR,185.245.0.0/24
   - IP-CIDR,192.109.138.0/24

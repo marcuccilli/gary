@@ -1,6 +1,6 @@
 # NAME: Gary 源
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 358
+# RULES: 360
 # SOURCES:
 # - https://garysclub.sharewithyou.dpdns.org/garysclub.m3u
 
@@ -187,6 +187,7 @@ name = Gary 源
 2, dh18i7whff86v.cloudfront.net
 2, dhjd4u7ds8bgi.cloudfront.net
 2, did3h2ysc2rkk.cloudfront.net
+2, digi.dtv3.lol
 2, dki01q1l7yn3y.cloudfront.net
 2, dn7vkzd5khpp3.cloudfront.net
 2, dnf08l6u6uxnz.cloudfront.net
@@ -336,6 +337,7 @@ name = Gary 源
 0, 161.129.60.0/24
 0, 172.110.219.0/24
 0, 181.233.127.0/24
+0, 185.217.39.0/24
 0, 185.243.7.0/24
 0, 185.245.0.0/24
 0, 192.109.138.0/24
