@@ -1,0 +1,14 @@
+[Evidence_For_IP: 114.246.237.87]
+inbound connection to aggr16-normal.tiktokv.com
+inbound connection to api22-normal-c-alisg.tiktokv.com
+inbound connection to api31-core-alisg.tiktokv.com
+inbound connection to api31-normal-alisg.tiktokv.com
+inbound connection to api-h2.tiktokv.com
+inbound connection to api.snapkit.com
+inbound connection to app-analytics-services.com
+inbound connection to bsync31-normal-alisg.tiktokv.com
+inbound connection to cp-rp16-normal-alisg.tiktokv.com
+inbound connection to da-an-v3-sg.tiktokv.com
+[Evidence_For_IP: 0]
+- [审计记录: 管理员于 2026-09-11 23:17:33 在 Gary 实时透视大盘手动指名隔离该 IP]
+- [处理: 执行单 IP 阻断加入隔离名单，刑期: 30d]
