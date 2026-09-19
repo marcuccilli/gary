@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,3fbf38fe.wurl.com
   - DOMAIN-SUFFIX,4kgood.org
   - DOMAIN-SUFFIX,52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com
+  - DOMAIN-SUFFIX,5393127.merovixx.cc
   - DOMAIN-SUFFIX,5393127.oryvixon.cc
   - DOMAIN-SUFFIX,75943f25.wurl.com
   - DOMAIN-SUFFIX,89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com
@@ -182,6 +183,7 @@ payload:
   - DOMAIN-SUFFIX,imageservice.disco.peacocktv.com
   - DOMAIN-SUFFIX,iptvboss.xyz
   - DOMAIN-SUFFIX,jmp2.uk
+  - DOMAIN-SUFFIX,keyserver.cloudport.amagi.tv
   - DOMAIN-SUFFIX,lgcp-xumoent-nbcnn-2b7eb.fast.nbcuni.com
   - DOMAIN-SUFFIX,lge-static.ottera.tv
   - DOMAIN-SUFFIX,linear-1071.frequency.stream
@@ -232,6 +234,7 @@ payload:
   - DOMAIN-SUFFIX,rightsboosterltd-scl-1-us.xumo.wurl.tv
   - DOMAIN-SUFFIX,royallivetv.club
   - DOMAIN-SUFFIX,rt-glb.rttv.com
+  - DOMAIN-SUFFIX,s10host1.localnow.api.cms.amdvids.com
   - DOMAIN-SUFFIX,s11host2.localnow.api.cms.amdvids.com
   - DOMAIN-SUFFIX,s12.gifyu.com
   - DOMAIN-SUFFIX,s2host5.localnow.api.cms.amdvids.com
@@ -279,6 +282,7 @@ payload:
   - IP-CIDR,13.225.47.0/24
   - IP-CIDR,13.226.49.0/24
   - IP-CIDR,13.226.53.0/24
+  - IP-CIDR,13.227.34.0/24
   - IP-CIDR,13.227.47.0/24
   - IP-CIDR,13.248.244.0/24
   - IP-CIDR,13.249.135.0/24
@@ -319,25 +323,32 @@ payload:
   - IP-CIDR,2.21.9.0/24
   - IP-CIDR,205.234.175.0/24
   - IP-CIDR,206.212.244.0/24
+  - IP-CIDR,207.121.116.0/24
+  - IP-CIDR,23.14.92.0/24
   - IP-CIDR,23.213.53.0/24
   - IP-CIDR,23.216.5.0/24
   - IP-CIDR,23.237.104.0/24
   - IP-CIDR,23.239.31.0/24
+  - IP-CIDR,23.33.29.0/24
   - IP-CIDR,23.39.51.0/24
   - IP-CIDR,3.166.96.0/24
   - IP-CIDR,3.167.138.0/24
   - IP-CIDR,3.167.152.0/24
   - IP-CIDR,3.167.163.0/24
+  - IP-CIDR,3.168.39.0/24
   - IP-CIDR,3.168.40.0/24
   - IP-CIDR,3.169.149.0/24
+  - IP-CIDR,3.169.155.0/24
   - IP-CIDR,3.170.152.0/24
   - IP-CIDR,3.170.185.0/24
+  - IP-CIDR,3.219.155.0/24
   - IP-CIDR,31.57.230.0/24
   - IP-CIDR,34.104.32.0/24
   - IP-CIDR,35.71.179.0/24
   - IP-CIDR,43.250.127.0/24
   - IP-CIDR,45.139.122.0/24
   - IP-CIDR,45.155.226.0/24
+  - IP-CIDR,52.1.210.0/24
   - IP-CIDR,52.85.12.0/24
   - IP-CIDR,54.192.100.0/24
   - IP-CIDR,54.230.102.0/24
