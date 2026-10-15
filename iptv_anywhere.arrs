@@ -204,6 +204,7 @@ name = Gary 源
 2, pb-ft51qiiwihqtb.akamaized.net
 2, pb-hum8cczphcrpf.akamaized.net
 2, pb-iiczlgfysam0q.akamaized.net
+2, pb-k71qdbyvm4gcs.akamaized.net
 2, pb-k9ze87giq7fqf.akamaized.net
 2, pb-m89wlp8flmjzf.akamaized.net
 2, pb-mjr9205rtv7fy.akamaized.net
@@ -251,6 +252,7 @@ name = Gary 源
 2, xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com
 2, xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com
 2, xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
+0, 103.209.129.94/32
 0, 138.199.2.40/32
 0, 143.244.60.76/32
 0, 161.129.60.242/32
@@ -269,6 +271,7 @@ name = Gary 源
 0, 45.139.122.199/32
 0, 46.249.110.160/32
 0, 46.249.110.173/32
+0, 46.249.110.176/32
 0, 79.127.248.86/32
 0, 84.17.44.166/32
 0, 84.17.63.120/32
@@ -281,6 +284,7 @@ name = Gary 源
 0, 89.187.179.174/32
 0, 89.187.179.54/32
 0, 89.187.179.73/32
+0, 89.187.181.220/32
 0, 89.187.181.68/32
 0, 89.187.183.106/32
 0, 89.222.120.117/32

@@ -202,6 +202,7 @@ domain:pb-fbdfahhani6sz.akamaized.net
 domain:pb-ft51qiiwihqtb.akamaized.net
 domain:pb-hum8cczphcrpf.akamaized.net
 domain:pb-iiczlgfysam0q.akamaized.net
+domain:pb-k71qdbyvm4gcs.akamaized.net
 domain:pb-k9ze87giq7fqf.akamaized.net
 domain:pb-m89wlp8flmjzf.akamaized.net
 domain:pb-mjr9205rtv7fy.akamaized.net
@@ -249,6 +250,7 @@ domain:xumo-xumoent-ch839-d5ey0.fast.nbcuni.com
 domain:xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com
 domain:xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com
 domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
+103.209.129.94/32
 138.199.2.40/32
 143.244.60.76/32
 161.129.60.242/32
@@ -267,6 +269,7 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 45.139.122.199/32
 46.249.110.160/32
 46.249.110.173/32
+46.249.110.176/32
 79.127.248.86/32
 84.17.44.166/32
 84.17.63.120/32
@@ -279,6 +282,7 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 89.187.179.174/32
 89.187.179.54/32
 89.187.179.73/32
+89.187.181.220/32
 89.187.181.68/32
 89.187.183.106/32
 89.222.120.117/32
