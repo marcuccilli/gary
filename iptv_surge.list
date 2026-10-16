@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,4kkp.k-20.xyz
 DOMAIN-SUFFIX,52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,7004081.c23s.cc
 DOMAIN-SUFFIX,7004081.s08s.cc
+DOMAIN-SUFFIX,7004081.w13s.cc
 DOMAIN-SUFFIX,7447975b.wurl.com
 DOMAIN-SUFFIX,75943f25.wurl.com
 DOMAIN-SUFFIX,89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com
@@ -219,6 +220,7 @@ DOMAIN-SUFFIX,pb-xp0ozx9lyqeiv.akamaized.net
 DOMAIN-SUFFIX,pb-zjy36qhp8e8cz.akamaized.net
 DOMAIN-SUFFIX,php.jdshipin.com
 DOMAIN-SUFFIX,poolc6cg1ead.airspace-cdn.cbsivideo.com
+DOMAIN-SUFFIX,public.accessibility.describes
 DOMAIN-SUFFIX,rightsboosterltd-scl-1-us.xumo.wurl.tv
 DOMAIN-SUFFIX,royallivetv.club
 DOMAIN-SUFFIX,rt-glb.rttv.com
@@ -228,6 +230,7 @@ DOMAIN-SUFFIX,s2host5.localnow.api.cms.amdvids.com
 DOMAIN-SUFFIX,s7aabb12.org
 DOMAIN-SUFFIX,s8host3.localnow.api.cms.amdvids.com
 DOMAIN-SUFFIX,samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv
+DOMAIN-SUFFIX,siloh-ns1.plutotv.net
 DOMAIN-SUFFIX,sis-global.prod.samsungtv.plus
 DOMAIN-SUFFIX,sk.delivery.roku.com
 DOMAIN-SUFFIX,slh.kop.homes
@@ -266,10 +269,13 @@ IP-CIDR,206.212.244.38/32
 IP-CIDR,208.80.248.26/32
 IP-CIDR,23.237.104.106/32
 IP-CIDR,23.239.31.26/32
+IP-CIDR,42.118.166.112/32
+IP-CIDR,42.118.166.114/32
 IP-CIDR,45.139.122.199/32
 IP-CIDR,46.249.110.160/32
 IP-CIDR,46.249.110.173/32
 IP-CIDR,46.249.110.176/32
+IP-CIDR,46.249.110.242/32
 IP-CIDR,79.127.248.86/32
 IP-CIDR,84.17.44.166/32
 IP-CIDR,84.17.63.120/32
@@ -282,6 +288,7 @@ IP-CIDR,89.187.179.148/32
 IP-CIDR,89.187.179.174/32
 IP-CIDR,89.187.179.54/32
 IP-CIDR,89.187.179.73/32
+IP-CIDR,89.187.181.142/32
 IP-CIDR,89.187.181.220/32
 IP-CIDR,89.187.181.68/32
 IP-CIDR,89.187.183.106/32
