@@ -254,6 +254,9 @@ domain:xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com
 domain:xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com
 domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 103.209.129.94/32
+103.255.250.187/32
+103.255.250.202/32
+103.255.250.203/32
 138.199.2.40/32
 143.244.60.76/32
 161.129.60.242/32

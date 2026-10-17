@@ -255,6 +255,9 @@ payload:
   - DOMAIN-SUFFIX,xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com
   - DOMAIN-SUFFIX,xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
   - IP-CIDR,103.209.129.94/32
+  - IP-CIDR,103.255.250.187/32
+  - IP-CIDR,103.255.250.202/32
+  - IP-CIDR,103.255.250.203/32
   - IP-CIDR,138.199.2.40/32
   - IP-CIDR,143.244.60.76/32
   - IP-CIDR,161.129.60.242/32
