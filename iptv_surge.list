@@ -81,6 +81,7 @@ DOMAIN-SUFFIX,bbb-billi-xumo.otteravision.com
 DOMAIN-SUFFIX,bbb-bowl-xumo.otteravision.com
 DOMAIN-SUFFIX,bgdc.live
 DOMAIN-SUFFIX,c.mjh.nz
+DOMAIN-SUFFIX,cdn.prod.funke.video
 DOMAIN-SUFFIX,cdn.qd.je
 DOMAIN-SUFFIX,cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
 DOMAIN-SUFFIX,citynewsregional.akamaized.net
@@ -151,6 +152,7 @@ DOMAIN-SUFFIX,dblg512iwb2z0.cloudfront.net
 DOMAIN-SUFFIX,dbrb49pjoymg4.cloudfront.net
 DOMAIN-SUFFIX,dh18i7whff86v.cloudfront.net
 DOMAIN-SUFFIX,dhjd4u7ds8bgi.cloudfront.net
+DOMAIN-SUFFIX,did3h2ysc2rkk.cloudfront.net
 DOMAIN-SUFFIX,digi.dtv3.lol
 DOMAIN-SUFFIX,dn7vkzd5khpp3.cloudfront.net
 DOMAIN-SUFFIX,dnf08l6u6uxnz.cloudfront.net
@@ -279,6 +281,8 @@ IP-CIDR,46.249.110.160/32
 IP-CIDR,46.249.110.173/32
 IP-CIDR,46.249.110.176/32
 IP-CIDR,46.249.110.242/32
+IP-CIDR,79.127.223.35/32
+IP-CIDR,79.127.243.231/32
 IP-CIDR,79.127.248.86/32
 IP-CIDR,84.17.44.166/32
 IP-CIDR,84.17.63.120/32

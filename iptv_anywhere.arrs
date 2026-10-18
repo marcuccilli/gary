@@ -83,6 +83,7 @@ name = Gary 源
 2, bbb-bowl-xumo.otteravision.com
 2, bgdc.live
 2, c.mjh.nz
+2, cdn.prod.funke.video
 2, cdn.qd.je
 2, cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
 2, citynewsregional.akamaized.net
@@ -153,6 +154,7 @@ name = Gary 源
 2, dbrb49pjoymg4.cloudfront.net
 2, dh18i7whff86v.cloudfront.net
 2, dhjd4u7ds8bgi.cloudfront.net
+2, did3h2ysc2rkk.cloudfront.net
 2, digi.dtv3.lol
 2, dn7vkzd5khpp3.cloudfront.net
 2, dnf08l6u6uxnz.cloudfront.net
@@ -281,6 +283,8 @@ name = Gary 源
 0, 46.249.110.173/32
 0, 46.249.110.176/32
 0, 46.249.110.242/32
+0, 79.127.223.35/32
+0, 79.127.243.231/32
 0, 79.127.248.86/32
 0, 84.17.44.166/32
 0, 84.17.63.120/32
