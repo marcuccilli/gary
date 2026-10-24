@@ -243,6 +243,7 @@ domain:turnerlive.warnermediacdn.com
 domain:tv-trtworld.medya.trt.com.tr
 domain:tvplus-cdn.www.funke.video
 domain:twcprod-live.twc-tv.com
+domain:unified-ad-segment-cdn-ak-us-east-2.akamaized.net
 domain:usatodaynews-samsungus-tsv2-ghkcu.amagi.tv
 domain:vs-hls-push-ww-live.akamaized.net
 domain:wurlgameshownetwork.global.transmit.live

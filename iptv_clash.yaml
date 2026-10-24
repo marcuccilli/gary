@@ -244,6 +244,7 @@ payload:
   - DOMAIN-SUFFIX,tv-trtworld.medya.trt.com.tr
   - DOMAIN-SUFFIX,tvplus-cdn.www.funke.video
   - DOMAIN-SUFFIX,twcprod-live.twc-tv.com
+  - DOMAIN-SUFFIX,unified-ad-segment-cdn-ak-us-east-2.akamaized.net
   - DOMAIN-SUFFIX,usatodaynews-samsungus-tsv2-ghkcu.amagi.tv
   - DOMAIN-SUFFIX,vs-hls-push-ww-live.akamaized.net
   - DOMAIN-SUFFIX,wurlgameshownetwork.global.transmit.live
